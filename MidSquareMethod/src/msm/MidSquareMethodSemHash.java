@@ -1,6 +1,6 @@
 package msm;
 
-public class MidSquareMethodSemHash {
+public class MidSquareMethodSemAjuste {
 	// Função para contar o número de dígitos de um número
 	   public static int contarDigitos(long chave) {
 	       int contagem = 0;

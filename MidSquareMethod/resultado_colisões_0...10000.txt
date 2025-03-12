@@ -1,0 +1,2292 @@
+Chave 2706 adicionada no índice 2
+Chave 3090 adicionada no índice 8
+Chave 5750 já existe no índice 62
+Chave 6737 já existe no índice 87
+Chave 4744 já existe no índice 5
+Chave 2837 já existe no índice 8
+Chave 9931 já existe no índice 24
+Chave 1136 adicionada no índice 0
+Chave 7064 já existe no índice 0
+Chave 3578 já existe no índice 2
+Chave 9057 adicionada no índice 29
+Chave 2924 já existe no índice 9
+Chave 1290 já existe no índice 4
+Chave 1165 adicionada no índice 7
+Chave 4624 já existe no índice 81
+Chave 9958 adicionada no índice 61
+Chave 2852 já existe no índice 3
+Chave 815 já existe no índice 42
+Chave 872 já existe no índice 3
+Chave 9410 adicionada no índice 48
+Chave 3360 adicionada no índice 89
+Chave 9111 adicionada no índice 10
+Chave 4207 adicionada no índice 98
+Chave 8875 adicionada no índice 65
+Chave 1549 já existe no índice 9
+Chave 9956 adicionada no índice 21
+Chave 711 já existe no índice 55
+Chave 1917 já existe no índice 4
+Chave 6046 adicionada no índice 54
+Chave 7421 adicionada no índice 71
+Chave 5744 já existe no índice 93
+Chave 9327 adicionada no índice 92
+Chave 3396 adicionada no índice 32
+Chave 197 já existe no índice 8
+Chave 153 já existe no índice 4
+Chave 7051 já existe no índice 16
+Chave 4593 adicionada no índice 95
+Chave 5993 já existe no índice 16
+Chave 4142 adicionada no índice 56
+Chave 4512 adicionada no índice 58
+Chave 4788 já existe no índice 24
+Chave 9647 adicionada no índice 64
+Chave 7749 já existe no índice 47
+Chave 6573 adicionada no índice 4
+Chave 3506 já existe no índice 92
+Chave 7993 já existe no índice 88
+Chave 7639 adicionada no índice 54
+Chave 6181 já existe no índice 4
+Chave 5499 adicionada no índice 39
+Chave 905 já existe no índice 90
+Chave 6319 já existe no índice 29
+Chave 429 já existe no índice 40
+Chave 3092 adicionada no índice 0
+Chave 7510 adicionada no índice 0
+Chave 1572 já existe no índice 1
+Chave 9890 já existe no índice 12
+Chave 5263 já existe no índice 99
+Chave 233 adicionada no índice 2
+Chave 321 já existe no índice 30
+Chave 1906 adicionada no índice 2
+Chave 43 adicionada no índice 84
+Chave 2187 já existe no índice 2
+Chave 5932 adicionada no índice 88
+Chave 790 adicionada no índice 41
+Chave 9052 adicionada no índice 38
+Chave 3675 adicionada no índice 5
+Chave 7151 adicionada no índice 36
+Chave 9059 adicionada no índice 65
+Chave 2070 já existe no índice 4
+Chave 9379 já existe no índice 65
+Chave 1047 já existe no índice 6
+Chave 9637 adicionada no índice 71
+Chave 251 adicionada no índice 0
+Chave 5862 adicionada no índice 63
+Chave 7644 adicionada no índice 30
+Chave 4118 adicionada no índice 57
+Chave 2234 já existe no índice 0
+Chave 8278 já existe no índice 25
+Chave 946 já existe no índice 49
+Chave 9093 adicionada no índice 82
+Chave 8475 adicionada no índice 25
+Chave 7011 adicionada no índice 54
+Chave 4996 adicionada no índice 60
+Chave 4549 já existe no índice 93
+Chave 9472 adicionada no índice 18
+Chave 7046 adicionada no índice 46
+Chave 5143 adicionada no índice 50
+Chave 3625 adicionada no índice 40
+Chave 8374 adicionada no índice 23
+Chave 3689 adicionada no índice 8
+Chave 1490 já existe no índice 0
+Chave 3126 adicionada no índice 1
+Chave 1067 já existe no índice 8
+Chave 6061 já existe no índice 35
+Chave 946 já existe no índice 49
+Chave 4080 adicionada no índice 46
+Chave 5402 já existe no índice 81
+Chave 4297 já existe no índice 64
+Chave 1064 adicionada no índice 2
+Chave 4876 já existe no índice 75
+Chave 8611 adicionada no índice 49
+Chave 7586 já existe no índice 47
+Chave 6862 já existe no índice 87
+Chave 3882 adicionada no índice 69
+Chave 8364 adicionada no índice 56
+Chave 1181 já existe no índice 4
+Chave 648 já existe no índice 99
+Chave 2710 adicionada no índice 4
+Chave 3911 adicionada no índice 95
+Chave 751 já existe no índice 40
+Chave 1993 já existe no índice 2
+Chave 301 já existe no índice 6
+Chave 1749 adicionada no índice 9
+Chave 2462 adicionada no índice 1
+Chave 3468 adicionada no índice 27
+Chave 7830 já existe no índice 8
+Chave 30 já existe no índice 0
+Chave 3894 já existe no índice 63
+Chave 81 adicionada no índice 56
+Chave 8783 adicionada no índice 41
+Chave 922 adicionada no índice 0
+Chave 8953 adicionada no índice 56
+Chave 499 adicionada no índice 90
+Chave 668 já existe no índice 62
+Chave 7286 adicionada no índice 85
+Chave 9668 já existe no índice 70
+Chave 7448 adicionada no índice 72
+Chave 3604 adicionada no índice 88
+Chave 442 já existe no índice 53
+Chave 656 já existe no índice 3
+Chave 3803 adicionada no índice 62
+Chave 5233 já existe no índice 84
+Chave 7658 adicionada no índice 44
+Chave 5329 adicionada no índice 98
+Chave 743 já existe no índice 20
+Chave 605 já existe no índice 60
+Chave 9287 adicionada no índice 48
+Chave 3097 adicionada no índice 1
+Chave 9485 já existe no índice 65
+Chave 2577 já existe no índice 0
+Chave 2686 já existe no índice 4
+Chave 4227 já existe no índice 67
+Chave 9901 adicionada no índice 29
+Chave 4920 adicionada no índice 6
+Chave 322 já existe no índice 36
+Chave 1038 adicionada no índice 7
+Chave 9040 já existe no índice 21
+Chave 9095 adicionada no índice 19
+Chave 7064 já existe no índice 0
+Chave 8806 já existe no índice 45
+Chave 9370 já existe no índice 96
+Chave 9381 já existe no índice 3
+Chave 229 já existe no índice 4
+Chave 6061 já existe no índice 35
+Chave 2570 adicionada no índice 4
+Chave 7505 adicionada no índice 25
+Chave 131 já existe no índice 1
+Chave 188 adicionada no índice 3
+Chave 6859 já existe no índice 45
+Chave 7836 já existe no índice 2
+Chave 5865 adicionada no índice 98
+Chave 1888 já existe no índice 4
+Chave 2457 já existe no índice 6
+Chave 1863 adicionada no índice 0
+Chave 4841 já existe no índice 35
+Chave 860 já existe no índice 96
+Chave 6572 já existe no índice 91
+Chave 2186 já existe no índice 8
+Chave 1216 adicionada no índice 8
+Chave 4722 já existe no índice 97
+Chave 1703 já existe no índice 0
+Chave 9985 já existe no índice 0
+Chave 4499 adicionada no índice 41
+Chave 8319 já existe no índice 5
+Chave 3493 já existe no índice 1
+Chave 4133 já existe no índice 81
+Chave 2348 já existe no índice 3
+Chave 2941 adicionada no índice 9
+Chave 6018 já existe no índice 16
+Chave 6959 adicionada no índice 27
+Chave 9331 adicionada no índice 67
+Chave 9191 já existe no índice 74
+Chave 2018 já existe no índice 2
+Chave 6267 já existe no índice 75
+Chave 1910 já existe no índice 8
+Chave 8042 adicionada no índice 73
+Chave 2523 adicionada no índice 5
+Chave 884 adicionada no índice 14
+Chave 6318 adicionada no índice 17
+Chave 9623 já existe no índice 2
+Chave 3123 adicionada no índice 3
+Chave 8642 adicionada no índice 84
+Chave 4403 adicionada no índice 86
+Chave 772 já existe no índice 59
+Chave 3002 já existe no índice 2
+Chave 1355 já existe no índice 6
+Chave 8488 adicionada no índice 46
+Chave 2724 adicionada no índice 0
+Chave 3472 adicionada no índice 54
+Chave 3854 adicionada no índice 53
+Chave 2327 já existe no índice 4
+Chave 3407 adicionada no índice 7
+Chave 2783 adicionada no índice 5
+Chave 5070 adicionada no índice 4
+Chave 3200 já existe no índice 40
+Chave 2096 adicionada no índice 3
+Chave 1272 já existe no índice 7
+Chave 5249 já existe no índice 52
+Chave 2075 já existe no índice 5
+Chave 1612 já existe no índice 8
+Chave 3467 já existe no índice 20
+Chave 8330 adicionada no índice 88
+Chave 2258 já existe no índice 8
+Chave 5862 já existe no índice 63
+Chave 1278 já existe no índice 3
+Chave 4784 adicionada no índice 86
+Chave 1709 já existe no índice 0
+Chave 6118 já existe no índice 29
+Chave 9816 já existe no índice 53
+Chave 4737 adicionada no índice 39
+Chave 3945 já existe no índice 63
+Chave 6886 já existe no índice 16
+Chave 7742 já existe no índice 38
+Chave 3530 adicionada no índice 60
+Chave 8405 adicionada no índice 44
+Chave 3775 já existe no índice 50
+Chave 3968 já existe no índice 45
+Chave 594 adicionada no índice 28
+Chave 8277 já existe no índice 8
+Chave 7789 já existe no índice 68
+Chave 9838 já existe no índice 86
+Chave 4548 já existe no índice 84
+Chave 602 adicionada no índice 24
+Chave 1077 já existe no índice 9
+Chave 8584 adicionada no índice 85
+Chave 7599 já existe no índice 44
+Chave 1871 já existe no índice 0
+Chave 8309 adicionada no índice 39
+Chave 1121 adicionada no índice 6
+Chave 975 adicionada no índice 6
+Chave 2396 adicionada no índice 0
+Chave 2099 já existe no índice 5
+Chave 6116 já existe no índice 5
+Chave 7944 já existe no índice 7
+Chave 7627 já existe no índice 71
+Chave 2949 adicionada no índice 6
+Chave 2718 adicionada no índice 7
+Chave 7574 adicionada no índice 65
+Chave 4500 já existe no índice 50
+Chave 1567 já existe no índice 5
+Chave 6384 já existe no índice 55
+Chave 1611 já existe no índice 5
+Chave 6605 adicionada no índice 26
+Chave 1077 já existe no índice 9
+Chave 2740 já existe no índice 7
+Chave 6527 já existe no índice 1
+Chave 2862 já existe no índice 1
+Chave 6807 adicionada no índice 35
+Chave 2340 já existe no índice 5
+Chave 4514 adicionada no índice 76
+Chave 4737 já existe no índice 39
+Chave 3452 adicionada no índice 16
+Chave 6084 adicionada no índice 15
+Chave 3322 já existe no índice 35
+Chave 3347 já existe no índice 2
+Chave 5796 já existe no índice 93
+Chave 2846 adicionada no índice 9
+Chave 2486 já existe no índice 0
+Chave 8418 já existe no índice 62
+Chave 1538 já existe no índice 5
+Chave 202 adicionada no índice 8
+Chave 7274 já existe no índice 11
+Chave 9535 já existe no índice 16
+Chave 9351 já existe no índice 41
+Chave 9253 adicionada no índice 18
+Chave 2098 já existe no índice 1
+Chave 9541 já existe no índice 30
+Chave 3691 já existe no índice 23
+Chave 5351 já existe no índice 33
+Chave 8837 já existe no índice 92
+Chave 7447 adicionada no índice 57
+Chave 9497 já existe no índice 93
+Chave 6266 já existe no índice 62
+Chave 9656 já existe no índice 38
+Chave 5205 já existe no índice 92
+Chave 5275 já existe no índice 25
+Chave 2542 já existe no índice 1
+Chave 7945 já existe no índice 23
+Chave 3440 já existe no índice 33
+Chave 9845 já existe no índice 24
+Chave 4500 já existe no índice 50
+Chave 7610 já existe no índice 12
+Chave 1251 adicionada no índice 5
+Chave 4987 já existe no índice 70
+Chave 8249 já existe no índice 46
+Chave 4187 adicionada no índice 30
+Chave 6938 adicionada no índice 35
+Chave 2811 já existe no índice 1
+Chave 7229 adicionada no índice 58
+Chave 6885 adicionada no índice 3
+Chave 7294 adicionada no índice 2
+Chave 5178 adicionada no índice 11
+Chave 6135 já existe no índice 38
+Chave 8366 adicionada no índice 89
+Chave 7625 adicionada no índice 40
+Chave 7579 adicionada no índice 41
+Chave 2068 adicionada no índice 6
+Chave 6727 já existe no índice 52
+Chave 6288 já existe no índice 38
+Chave 8334 já existe no índice 55
+Chave 2184 já existe no índice 9
+Chave 3729 adicionada no índice 5
+Chave 6695 já existe no índice 23
+Chave 2060 já existe no índice 3
+Chave 8284 já existe no índice 24
+Chave 8716 já existe no índice 68
+Chave 1069 adicionada no índice 2
+Chave 1852 adicionada no índice 9
+Chave 4213 já existe no índice 49
+Chave 568 adicionada no índice 26
+Chave 4018 adicionada no índice 44
+Chave 9594 adicionada no índice 44
+Chave 5880 adicionada no índice 74
+Chave 1338 já existe no índice 0
+Chave 4558 já existe no índice 75
+Chave 9761 já existe no índice 77
+Chave 376 já existe no índice 13
+Chave 6454 já existe no índice 54
+Chave 7734 já existe no índice 14
+Chave 7335 já existe no índice 2
+Chave 1770 adicionada no índice 2
+Chave 5622 já existe no índice 6
+Chave 8663 adicionada no índice 47
+Chave 2518 já existe no índice 0
+Chave 3136 adicionada no índice 4
+Chave 2976 adicionada no índice 6
+Chave 4308 adicionada no índice 58
+Chave 5429 já existe no índice 74
+Chave 1065 já existe no índice 4
+Chave 2624 adicionada no índice 5
+Chave 2711 já existe no índice 9
+Chave 7896 já existe no índice 46
+Chave 6858 adicionada no índice 32
+Chave 3712 já existe no índice 78
+Chave 739 já existe no índice 61
+Chave 734 já existe no índice 87
+Chave 3641 já existe no índice 56
+Chave 6357 já existe no índice 11
+Chave 2950 já existe no índice 2
+Chave 861 já existe no índice 13
+Chave 2299 já existe no índice 5
+Chave 3927 adicionada no índice 21
+Chave 297 adicionada no índice 2
+Chave 6867 adicionada no índice 55
+Chave 9393 adicionada no índice 28
+Chave 7281 adicionada no índice 12
+Chave 3799 já existe no índice 32
+Chave 9763 adicionada no índice 16
+Chave 8335 adicionada no índice 72
+Chave 6295 adicionada no índice 27
+Chave 9427 adicionada no índice 68
+Chave 8663 já existe no índice 47
+Chave 9447 já existe no índice 45
+Chave 2326 já existe no índice 0
+Chave 4652 adicionada no índice 41
+Chave 7468 adicionada no índice 71
+Chave 838 já existe no índice 22
+Chave 639 já existe no índice 83
+Chave 5692 já existe no índice 98
+Chave 7053 adicionada no índice 44
+Chave 3237 já existe no índice 78
+Chave 2377 já existe no índice 0
+Chave 6847 adicionada no índice 81
+Chave 3361 já existe no índice 96
+Chave 3651 adicionada no índice 29
+Chave 8994 já existe no índice 92
+Chave 5477 já existe no índice 97
+Chave 405 adicionada no índice 40
+Chave 8104 já existe no índice 74
+Chave 9729 já existe no índice 53
+Chave 7278 adicionada no índice 69
+Chave 5695 adicionada no índice 33
+Chave 5860 já existe no índice 39
+Chave 4351 adicionada no índice 31
+Chave 9110 adicionada no índice 92
+Chave 641 adicionada no índice 8
+Chave 7929 adicionada no índice 69
+Chave 2209 já existe no índice 9
+Chave 884 já existe no índice 14
+Chave 9150 já existe no índice 22
+Chave 7823 já existe no índice 99
+Chave 1068 já existe no índice 0
+Chave 6737 já existe no índice 87
+Chave 7044 já existe no índice 17
+Chave 2319 adicionada no índice 7
+Chave 7193 já existe no índice 39
+Chave 5929 adicionada no índice 53
+Chave 309 já existe no índice 4
+Chave 9210 já existe no índice 24
+Chave 2661 já existe no índice 0
+Chave 1626 já existe no índice 3
+Chave 2101 adicionada no índice 4
+Chave 3205 já existe no índice 72
+Chave 5800 adicionada no índice 40
+Chave 1757 já existe no índice 7
+Chave 6072 já existe no índice 69
+Chave 7501 adicionada no índice 65
+Chave 3645 adicionada no índice 86
+Chave 9193 já existe no índice 11
+Chave 8871 adicionada no índice 94
+Chave 2097 adicionada no índice 7
+Chave 2067 adicionada no índice 2
+Chave 9834 já existe no índice 7
+Chave 7986 adicionada no índice 76
+Chave 88 já existe no índice 74
+Chave 6214 já existe no índice 13
+Chave 8453 já existe no índice 53
+Chave 8652 adicionada no índice 57
+Chave 9732 já existe no índice 11
+Chave 277 adicionada no índice 7
+Chave 4890 já existe no índice 12
+Chave 1152 já existe no índice 7
+Chave 2218 adicionada no índice 9
+Chave 7253 já existe no índice 6
+Chave 2374 adicionada no índice 5
+Chave 1003 já existe no índice 6
+Chave 870 já existe no índice 69
+Chave 9035 já existe no índice 31
+Chave 256 já existe no índice 5
+Chave 5373 já existe no índice 69
+Chave 1295 já existe no índice 7
+Chave 8723 já existe no índice 90
+Chave 6848 já existe no índice 95
+Chave 7120 já existe no índice 94
+Chave 3829 adicionada no índice 61
+Chave 8857 já existe no índice 46
+Chave 9147 já existe no índice 67
+Chave 8572 adicionada no índice 79
+Chave 107 já existe no índice 4
+Chave 8487 adicionada no índice 29
+Chave 8479 já existe no índice 93
+Chave 1280 adicionada no índice 8
+Chave 4434 já existe no índice 60
+Chave 372 já existe no índice 83
+Chave 9284 já existe no índice 92
+Chave 8800 adicionada no índice 40
+Chave 1903 adicionada no índice 1
+Chave 5192 já existe no índice 56
+Chave 5753 adicionada no índice 97
+Chave 4455 adicionada no índice 47
+Chave 5047 já existe no índice 72
+Chave 9923 já existe no índice 65
+Chave 4053 já existe no índice 26
+Chave 5330 já existe no índice 8
+Chave 8635 já existe no índice 63
+Chave 2150 já existe no índice 2
+Chave 2521 adicionada no índice 5
+Chave 789 já existe no índice 25
+Chave 1551 já existe no índice 5
+Chave 3809 adicionada no índice 8
+Chave 2192 já existe no índice 4
+Chave 3402 já existe no índice 73
+Chave 7643 já existe no índice 15
+Chave 7439 já existe no índice 38
+Chave 2150 já existe no índice 2
+Chave 4978 já existe no índice 80
+Chave 5393 já existe no índice 84
+Chave 3990 adicionada no índice 20
+Chave 1459 já existe no índice 8
+Chave 7689 já existe no índice 20
+Chave 8875 já existe no índice 65
+Chave 7581 já existe no índice 71
+Chave 9935 adicionada no índice 4
+Chave 741 adicionada no índice 90
+Chave 2697 adicionada no índice 3
+Chave 5980 adicionada no índice 60
+Chave 7957 já existe no índice 13
+Chave 2551 já existe no índice 7
+Chave 9540 já existe no índice 11
+Chave 6204 adicionada no índice 89
+Chave 680 já existe no índice 24
+Chave 4327 já existe no índice 22
+Chave 2457 já existe no índice 6
+Chave 5757 adicionada no índice 43
+Chave 5335 já existe no índice 62
+Chave 4000 já existe no índice 0
+Chave 286 já existe no índice 7
+Chave 4168 adicionada no índice 72
+Chave 9627 adicionada no índice 79
+Chave 3732 já existe no índice 27
+Chave 1175 já existe no índice 0
+Chave 393 já existe no índice 44
+Chave 4288 já existe no índice 86
+Chave 1047 já existe no índice 6
+Chave 2465 já existe no índice 6
+Chave 5226 adicionada no índice 11
+Chave 7603 já existe no índice 5
+Chave 4234 adicionada no índice 26
+Chave 8556 adicionada no índice 5
+Chave 5742 já existe no índice 70
+Chave 940 já existe no índice 36
+Chave 7716 adicionada no índice 36
+Chave 5023 adicionada no índice 30
+Chave 7222 adicionada no índice 57
+Chave 7068 adicionada no índice 56
+Chave 356 adicionada no índice 67
+Chave 6999 já existe no índice 86
+Chave 2597 já existe no índice 4
+Chave 2187 já existe no índice 2
+Chave 9791 já existe no índice 63
+Chave 4928 já existe no índice 85
+Chave 8750 adicionada no índice 62
+Chave 9377 já existe no índice 28
+Chave 1477 já existe no índice 1
+Chave 1029 já existe no índice 8
+Chave 5252 adicionada no índice 83
+Chave 7321 adicionada no índice 97
+Chave 5128 já existe no índice 96
+Chave 2140 já existe no índice 9
+Chave 9730 adicionada no índice 72
+Chave 6009 já existe no índice 8
+Chave 106 já existe no índice 2
+Chave 3755 adicionada no índice 0
+Chave 3559 adicionada no índice 66
+Chave 4416 já existe no índice 1
+Chave 930 já existe no índice 49
+Chave 3804 já existe no índice 70
+Chave 6339 já existe no índice 82
+Chave 7716 já existe no índice 36
+Chave 9086 adicionada no índice 55
+Chave 6141 adicionada no índice 11
+Chave 5856 adicionada no índice 92
+Chave 301 já existe no índice 6
+Chave 1690 adicionada no índice 6
+Chave 4619 adicionada no índice 35
+Chave 2233 já existe no índice 6
+Chave 6519 adicionada no índice 97
+Chave 4264 adicionada no índice 81
+Chave 861 já existe no índice 13
+Chave 6867 já existe no índice 55
+Chave 5532 já existe no índice 3
+Chave 9456 adicionada no índice 15
+Chave 549 já existe no índice 14
+Chave 6310 já existe no índice 16
+Chave 9562 adicionada no índice 31
+Chave 7923 já existe no índice 73
+Chave 4871 já existe no índice 26
+Chave 495 adicionada no índice 50
+Chave 3556 adicionada no índice 45
+Chave 6333 adicionada no índice 6
+Chave 93 adicionada no índice 64
+Chave 8699 já existe no índice 72
+Chave 7388 já existe no índice 82
+Chave 1543 já existe no índice 0
+Chave 1190 já existe no índice 6
+Chave 9586 adicionada no índice 91
+Chave 1718 já existe no índice 1
+Chave 7189 já existe no índice 81
+Chave 9495 adicionada no índice 55
+Chave 64 adicionada no índice 9
+Chave 9686 adicionada no índice 18
+Chave 180 já existe no índice 4
+Chave 7847 já existe no índice 75
+Chave 727 já existe no índice 85
+Chave 152 já existe no índice 1
+Chave 9167 já existe no índice 33
+Chave 1374 já existe no índice 7
+Chave 8875 já existe no índice 65
+Chave 5866 já existe no índice 9
+Chave 976 adicionada no índice 25
+Chave 2213 já existe no índice 7
+Chave 582 adicionada no índice 87
+Chave 6256 já existe no índice 37
+Chave 9169 já existe no índice 70
+Chave 1457 adicionada no índice 2
+Chave 4251 já existe no índice 71
+Chave 5304 adicionada no índice 32
+Chave 9567 já existe no índice 27
+Chave 3595 já existe no índice 24
+Chave 960 já existe no índice 16
+Chave 6386 já existe no índice 80
+Chave 6430 já existe no índice 44
+Chave 2539 já existe no índice 6
+Chave 5407 já existe no índice 35
+Chave 8139 adicionada no índice 43
+Chave 482 já existe no índice 23
+Chave 1333 já existe no índice 6
+Chave 7795 adicionada no índice 62
+Chave 2211 adicionada no índice 8
+Chave 9505 adicionada no índice 45
+Chave 4217 já existe no índice 83
+Chave 5547 adicionada no índice 69
+Chave 6920 adicionada no índice 86
+Chave 2863 já existe no índice 6
+Chave 3901 adicionada no índice 17
+Chave 9451 adicionada no índice 21
+Chave 7651 adicionada no índice 37
+Chave 3116 já existe no índice 9
+Chave 5549 já existe no índice 91
+Chave 2689 já existe no índice 0
+Chave 2714 já existe no índice 5
+Chave 430 adicionada no índice 49
+Chave 297 já existe no índice 2
+Chave 920 já existe no índice 64
+Chave 7764 adicionada no índice 79
+Chave 5315 adicionada no índice 49
+Chave 851 já existe no índice 42
+Chave 129 adicionada no índice 6
+Chave 6847 já existe no índice 81
+Chave 9500 já existe no índice 50
+Chave 4624 já existe no índice 81
+Chave 4954 já existe no índice 42
+Chave 9840 adicionada no índice 25
+Chave 6062 já existe no índice 47
+Chave 4484 adicionada no índice 6
+Chave 964 adicionada no índice 92
+Chave 4026 adicionada no índice 8
+Chave 423 já existe no índice 89
+Chave 5983 adicionada no índice 96
+Chave 2364 adicionada no índice 8
+Chave 2576 adicionada no índice 5
+Chave 5576 adicionada no índice 91
+Chave 7282 já existe no índice 27
+Chave 8628 já existe no índice 42
+Chave 2864 adicionada no índice 2
+Chave 2576 já existe no índice 5
+Chave 5058 já existe no índice 83
+Chave 6775 adicionada no índice 0
+Chave 3571 adicionada no índice 52
+Chave 5246 adicionada no índice 20
+Chave 1762 adicionada no índice 4
+Chave 3906 adicionada no índice 56
+Chave 6391 já existe no índice 44
+Chave 5664 já existe no índice 80
+Chave 6428 adicionada no índice 19
+Chave 1592 já existe no índice 4
+Chave 4798 já existe no índice 20
+Chave 1316 adicionada no índice 1
+Chave 1346 já existe no índice 1
+Chave 1494 já existe no índice 2
+Chave 8101 adicionada no índice 26
+Chave 5367 adicionada no índice 4
+Chave 1334 já existe no índice 9
+Chave 241 já existe no índice 0
+Chave 8267 já existe no índice 43
+Chave 742 adicionada no índice 5
+Chave 9616 adicionada no índice 67
+Chave 3477 adicionada no índice 89
+Chave 9582 já existe no índice 14
+Chave 4667 adicionada no índice 80
+Chave 2349 adicionada no índice 7
+Chave 2094 já existe no índice 4
+Chave 704 já existe no índice 56
+Chave 7183 já existe no índice 95
+Chave 3418 adicionada no índice 82
+Chave 2110 já existe no índice 2
+Chave 5469 já existe no índice 9
+Chave 4591 já existe no índice 77
+Chave 4212 adicionada no índice 40
+Chave 7623 adicionada no índice 10
+Chave 7070 adicionada no índice 84
+Chave 2926 adicionada no índice 1
+Chave 9850 adicionada no índice 22
+Chave 8673 adicionada no índice 20
+Chave 3408 adicionada no índice 14
+Chave 586 já existe no índice 33
+Chave 8508 já existe no índice 86
+Chave 65 já existe no índice 22
+Chave 8903 adicionada no índice 63
+Chave 447 já existe no índice 98
+Chave 2150 já existe no índice 2
+Chave 6151 adicionada no índice 34
+Chave 7108 já existe no índice 23
+Chave 9723 adicionada no índice 36
+Chave 4522 já existe no índice 48
+Chave 2556 já existe no índice 3
+Chave 7053 já existe no índice 44
+Chave 7846 adicionada no índice 59
+Chave 9265 já existe no índice 40
+Chave 2754 adicionada no índice 4
+Chave 1432 já existe no índice 0
+Chave 5174 adicionada no índice 70
+Chave 5131 já existe no índice 27
+Chave 6993 adicionada no índice 2
+Chave 9451 já existe no índice 21
+Chave 1114 já existe no índice 0
+Chave 5187 adicionada no índice 4
+Chave 4728 já existe no índice 53
+Chave 2135 adicionada no índice 8
+Chave 9126 adicionada no índice 83
+Chave 102 já existe no índice 4
+Chave 1141 já existe no índice 1
+Chave 9240 adicionada no índice 77
+Chave 2325 já existe no índice 5
+Chave 1069 já existe no índice 2
+Chave 5174 já existe no índice 70
+Chave 4951 adicionada no índice 12
+Chave 7778 já existe no índice 97
+Chave 1479 já existe no índice 7
+Chave 3189 já existe no índice 69
+Chave 3245 adicionada no índice 30
+Chave 3317 já existe no índice 2
+Chave 5832 adicionada no índice 12
+Chave 5990 já existe no índice 80
+Chave 8688 adicionada no índice 81
+Chave 4708 já existe no índice 65
+Chave 9304 adicionada no índice 64
+Chave 1896 já existe no índice 4
+Chave 476 já existe no índice 65
+Chave 6723 já existe no índice 98
+Chave 185 já existe no índice 2
+Chave 8789 já existe no índice 46
+Chave 4168 já existe no índice 72
+Chave 7316 já existe no índice 23
+Chave 1936 já existe no índice 8
+Chave 8499 adicionada no índice 33
+Chave 5338 adicionada no índice 94
+Chave 9922 já existe no índice 46
+Chave 8827 já existe no índice 15
+Chave 50 já existe no índice 50
+Chave 9570 já existe no índice 84
+Chave 8145 já existe no índice 41
+Chave 6034 adicionada no índice 9
+Chave 6253 adicionada no índice 0
+Chave 7884 já existe no índice 57
+Chave 8488 já existe no índice 46
+Chave 7303 adicionada no índice 33
+Chave 2614 já existe no índice 2
+Chave 6893 já existe no índice 13
+Chave 7899 adicionada no índice 94
+Chave 9756 adicionada no índice 79
+Chave 5981 adicionada no índice 72
+Chave 7989 adicionada no índice 24
+Chave 1565 já existe no índice 9
+Chave 8062 já existe no índice 95
+Chave 7842 já existe no índice 96
+Chave 8726 já existe no índice 43
+Chave 9512 adicionada no índice 78
+Chave 734 já existe no índice 87
+Chave 1259 já existe no índice 5
+Chave 3389 já existe no índice 85
+Chave 5336 adicionada no índice 72
+Chave 3708 já existe no índice 49
+Chave 1532 já existe no índice 7
+Chave 8259 adicionada no índice 11
+Chave 1234 já existe no índice 2
+Chave 6617 adicionada no índice 84
+Chave 4118 já existe no índice 57
+Chave 1050 já existe no índice 2
+Chave 6850 adicionada no índice 22
+Chave 4180 já existe no índice 72
+Chave 904 já existe no índice 72
+Chave 6648 já existe no índice 95
+Chave 4195 adicionada no índice 98
+Chave 8253 adicionada no índice 12
+Chave 8313 adicionada no índice 5
+Chave 7458 já existe no índice 21
+Chave 6349 adicionada no índice 9
+Chave 5659 já existe no índice 24
+Chave 692 adicionada no índice 88
+Chave 6024 adicionada no índice 88
+Chave 4366 já existe no índice 61
+Chave 5742 já existe no índice 70
+Chave 9137 adicionada no índice 84
+Chave 4533 adicionada no índice 48
+Chave 8823 já existe no índice 45
+Chave 7606 já existe no índice 51
+Chave 9245 já existe no índice 70
+Chave 7154 adicionada no índice 79
+Chave 5257 já existe no índice 36
+Chave 1456 adicionada no índice 9
+Chave 5871 já existe no índice 68
+Chave 2973 já existe no índice 8
+Chave 5807 adicionada no índice 21
+Chave 931 já existe no índice 67
+Chave 535 já existe no índice 62
+Chave 3829 já existe no índice 61
+Chave 9727 já existe no índice 14
+Chave 6239 adicionada no índice 25
+Chave 4963 adicionada no índice 31
+Chave 2081 adicionada no índice 0
+Chave 1613 adicionada no índice 1
+Chave 873 já existe no índice 21
+Chave 3679 adicionada no índice 35
+Chave 4929 já existe no índice 95
+Chave 2159 já existe no índice 1
+Chave 2976 já existe no índice 6
+Chave 1484 adicionada no índice 2
+Chave 3414 adicionada no índice 55
+Chave 9937 adicionada no índice 43
+Chave 6298 já existe no índice 64
+Chave 2601 já existe no índice 5
+Chave 8047 adicionada no índice 54
+Chave 3741 adicionada no índice 95
+Chave 1452 já existe no índice 8
+Chave 5501 já existe no índice 61
+Chave 3043 já existe no índice 9
+Chave 611 já existe no índice 33
+Chave 4651 adicionada no índice 31
+Chave 6090 adicionada no índice 88
+Chave 5805 já existe no índice 98
+Chave 244 adicionada no índice 5
+Chave 7453 já existe no índice 47
+Chave 7382 adicionada no índice 93
+Chave 133 já existe no índice 6
+Chave 6788 adicionada no índice 76
+Chave 1702 já existe no índice 6
+Chave 6259 já existe no índice 75
+Chave 9006 já existe no índice 8
+Chave 4606 já existe no índice 15
+Chave 5741 já existe no índice 59
+Chave 661 adicionada no índice 69
+Chave 2042 adicionada no índice 9
+Chave 3529 adicionada no índice 53
+Chave 7138 já existe no índice 51
+Chave 1757 já existe no índice 7
+Chave 4763 adicionada no índice 86
+Chave 4295 adicionada no índice 47
+Chave 807 já existe no índice 12
+Chave 5523 adicionada no índice 3
+Chave 1304 adicionada no índice 0
+Chave 4964 já existe no índice 41
+Chave 1828 já existe no índice 1
+Chave 6134 adicionada no índice 25
+Chave 1950 já existe no índice 2
+Chave 5776 já existe no índice 62
+Chave 1937 já existe no índice 1
+Chave 8523 já existe no índice 41
+Chave 7757 adicionada no índice 71
+Chave 1406 já existe no índice 6
+Chave 6698 adicionada no índice 63
+Chave 1096 já existe no índice 1
+Chave 290 já existe no índice 1
+Chave 3779 adicionada no índice 80
+Chave 7660 adicionada no índice 75
+Chave 5633 já existe no índice 30
+Chave 7723 já existe no índice 44
+Chave 1889 já existe no índice 8
+Chave 1215 já existe no índice 6
+Chave 5062 já existe no índice 23
+Chave 5765 adicionada no índice 35
+Chave 8452 já existe no índice 36
+Chave 7904 já existe no índice 73
+Chave 8643 já existe no índice 1
+Chave 9197 adicionada no índice 84
+Chave 8223 já existe no índice 17
+Chave 1667 já existe no índice 8
+Chave 9016 adicionada no índice 88
+Chave 5258 adicionada no índice 46
+Chave 235 já existe no índice 2
+Chave 280 já existe no índice 4
+Chave 2039 adicionada no índice 7
+Chave 6046 já existe no índice 54
+Chave 1530 já existe no índice 0
+Chave 6456 já existe no índice 79
+Chave 119 já existe no índice 1
+Chave 6442 adicionada no índice 99
+Chave 4448 adicionada no índice 84
+Chave 3691 já existe no índice 23
+Chave 3685 adicionada no índice 79
+Chave 6849 já existe no índice 8
+Chave 1534 já existe no índice 3
+Chave 9584 adicionada no índice 53
+Chave 582 já existe no índice 87
+Chave 7082 já existe no índice 54
+Chave 410 adicionada no índice 81
+Chave 586 já existe no índice 33
+Chave 4549 já existe no índice 93
+Chave 5011 adicionada no índice 10
+Chave 8228 adicionada no índice 99
+Chave 3092 já existe no índice 0
+Chave 1710 adicionada no índice 4
+Chave 2486 já existe no índice 0
+Chave 1078 já existe no índice 2
+Chave 7411 já existe no índice 22
+Chave 272 já existe no índice 9
+Chave 5999 adicionada no índice 88
+Chave 284 já existe no índice 6
+Chave 8796 adicionada no índice 69
+Chave 2251 adicionada no índice 7
+Chave 160 já existe no índice 6
+Chave 9526 adicionada no índice 44
+Chave 5768 já existe no índice 69
+Chave 2084 adicionada no índice 3
+Chave 5698 já existe no índice 67
+Chave 5852 adicionada no índice 45
+Chave 4967 adicionada no índice 71
+Chave 602 já existe no índice 24
+Chave 7985 já existe no índice 60
+Chave 6677 já existe no índice 82
+Chave 9622 adicionada no índice 82
+Chave 2428 adicionada no índice 5
+Chave 9774 já existe no índice 31
+Chave 9266 já existe no índice 58
+Chave 7817 adicionada no índice 5
+Chave 4000 já existe no índice 0
+Chave 9035 já existe no índice 31
+Chave 9751 já existe no índice 82
+Chave 4980 adicionada no índice 0
+Chave 641 já existe no índice 8
+Chave 7718 adicionada no índice 67
+Chave 18 já existe no índice 2
+Chave 1554 já existe no índice 4
+Chave 5088 adicionada no índice 87
+Chave 4242 já existe no índice 94
+Chave 1377 já existe no índice 6
+Chave 7082 já existe no índice 54
+Chave 8201 já existe no índice 56
+Chave 8907 adicionada no índice 34
+Chave 4415 já existe no índice 92
+Chave 6628 adicionada no índice 30
+Chave 958 já existe no índice 77
+Chave 9403 já existe no índice 16
+Chave 687 já existe no índice 19
+Chave 7837 já existe no índice 18
+Chave 5375 adicionada no índice 90
+Chave 9670 adicionada no índice 8
+Chave 1648 adicionada no índice 5
+Chave 612 já existe no índice 45
+Chave 1554 já existe no índice 4
+Chave 8067 já existe no índice 76
+Chave 363 já existe no índice 17
+Chave 5816 adicionada no índice 25
+Chave 1122 já existe no índice 8
+Chave 2368 já existe no índice 7
+Chave 6585 adicionada no índice 62
+Chave 9753 adicionada no índice 21
+Chave 5183 adicionada no índice 63
+Chave 3929 adicionada no índice 37
+Chave 8958 adicionada no índice 45
+Chave 1223 adicionada no índice 5
+Chave 7924 já existe no índice 89
+Chave 3598 adicionada no índice 45
+Chave 7154 já existe no índice 79
+Chave 740 já existe no índice 76
+Chave 1468 adicionada no índice 5
+Chave 6779 já existe no índice 54
+Chave 2638 adicionada no índice 9
+Chave 5869 já existe no índice 45
+Chave 3398 adicionada no índice 46
+Chave 2981 adicionada no índice 6
+Chave 3990 já existe no índice 20
+Chave 4912 adicionada no índice 27
+Chave 9274 já existe no índice 7
+Chave 4817 adicionada no índice 3
+Chave 5703 já existe no índice 24
+Chave 2184 já existe no índice 9
+Chave 6480 já existe no índice 90
+Chave 8237 já existe no índice 48
+Chave 4314 adicionada no índice 10
+Chave 6528 adicionada no índice 14
+Chave 1070 já existe no índice 4
+Chave 4441 já existe no índice 22
+Chave 686 já existe no índice 5
+Chave 8466 já existe no índice 73
+Chave 6974 já existe no índice 36
+Chave 524 adicionada no índice 45
+Chave 4828 adicionada no índice 9
+Chave 8803 já existe no índice 92
+Chave 4563 adicionada no índice 20
+Chave 4962 já existe no índice 21
+Chave 9597 adicionada no índice 2
+Chave 6536 adicionada no índice 19
+Chave 5307 adicionada no índice 64
+Chave 3899 já existe no índice 2
+Chave 3969 adicionada no índice 52
+Chave 6587 adicionada no índice 88
+Chave 212 já existe no índice 9
+Chave 4137 já existe no índice 14
+Chave 8367 adicionada no índice 6
+Chave 2313 já existe no índice 9
+Chave 189 já existe no índice 7
+Chave 380 já existe no índice 44
+Chave 4850 já existe no índice 22
+Chave 9684 já existe no índice 79
+Chave 2637 adicionada no índice 3
+Chave 9133 adicionada no índice 11
+Chave 3931 adicionada no índice 52
+Chave 9695 já existe no índice 93
+Chave 2488 já existe no índice 0
+Chave 9573 já existe no índice 42
+Chave 741 já existe no índice 90
+Chave 42 adicionada no índice 76
+Chave 3949 já existe no índice 94
+Chave 2286 adicionada no índice 5
+Chave 5563 já existe no índice 46
+Chave 227 já existe no índice 5
+Chave 2388 já existe no índice 2
+Chave 3730 adicionada no índice 12
+Chave 5929 já existe no índice 53
+Chave 7973 já existe no índice 68
+Chave 5310 adicionada no índice 96
+Chave 2120 adicionada no índice 4
+Chave 2946 adicionada no índice 8
+Chave 5783 adicionada no índice 43
+Chave 2374 já existe no índice 5
+Chave 7742 já existe no índice 38
+Chave 9341 já existe no índice 54
+Chave 7633 adicionada no índice 62
+Chave 2902 adicionada no índice 1
+Chave 5265 adicionada no índice 20
+Chave 9792 adicionada no índice 83
+Chave 5384 já existe no índice 87
+Chave 9581 já existe no índice 95
+Chave 1701 já existe no índice 3
+Chave 7875 adicionada no índice 15
+Chave 9460 adicionada no índice 91
+Chave 4867 já existe no índice 87
+Chave 7702 já existe no índice 20
+Chave 3904 já existe no índice 41
+Chave 7086 já existe no índice 11
+Chave 8103 adicionada no índice 58
+Chave 5003 já existe no índice 30
+Chave 3293 adicionada no índice 43
+Chave 2643 adicionada no índice 5
+Chave 373 adicionada no índice 91
+Chave 671 adicionada no índice 2
+Chave 8751 adicionada no índice 80
+Chave 4384 já existe no índice 19
+Chave 1752 adicionada no índice 9
+Chave 5953 já existe no índice 38
+Chave 7045 adicionada no índice 32
+Chave 8979 já existe no índice 22
+Chave 8220 adicionada no índice 68
+Chave 8657 adicionada no índice 43
+Chave 591 adicionada no índice 92
+Chave 5542 já existe no índice 13
+Chave 5375 já existe no índice 90
+Chave 2046 já existe no índice 6
+Chave 7379 já existe no índice 49
+Chave 9568 adicionada no índice 46
+Chave 1209 já existe no índice 1
+Chave 2728 já existe no índice 1
+Chave 486 adicionada no índice 61
+Chave 7288 adicionada no índice 14
+Chave 52 adicionada no índice 70
+Chave 6258 já existe no índice 62
+Chave 144 já existe no índice 7
+Chave 2400 adicionada no índice 0
+Chave 7459 adicionada no índice 36
+Chave 5232 adicionada no índice 73
+Chave 4981 já existe no índice 10
+Chave 692 já existe no índice 88
+Chave 8506 já existe no índice 52
+Chave 6190 já existe no índice 16
+Chave 2084 já existe no índice 3
+Chave 899 adicionada no índice 82
+Chave 3422 já existe no índice 10
+Chave 9017 já existe no índice 6
+Chave 2527 já existe no índice 5
+Chave 1119 já existe no índice 2
+Chave 991 adicionada no índice 20
+Chave 1982 já existe no índice 8
+Chave 6242 já existe no índice 62
+Chave 4435 já existe no índice 69
+Chave 7631 já existe no índice 32
+Chave 6923 adicionada no índice 27
+Chave 2919 adicionada no índice 0
+Chave 2868 já existe no índice 5
+Chave 723 já existe no índice 27
+Chave 9018 já existe no índice 24
+Chave 1296 já existe no índice 9
+Chave 1268 já existe no índice 7
+Chave 1527 já existe no índice 1
+Chave 1369 adicionada no índice 4
+Chave 2179 adicionada no índice 8
+Chave 592 adicionada no índice 4
+Chave 8978 já existe no índice 4
+Chave 2314 já existe no índice 4
+Chave 8999 adicionada no índice 82
+Chave 5766 adicionada no índice 46
+Chave 6566 já existe no índice 12
+Chave 9748 adicionada no índice 23
+Chave 8023 adicionada no índice 68
+Chave 1456 já existe no índice 9
+Chave 3198 adicionada no índice 27
+Chave 5325 já existe no índice 55
+Chave 608 já existe no índice 96
+Chave 6193 adicionada no índice 53
+Chave 8668 já existe no índice 34
+Chave 9479 adicionada no índice 51
+Chave 6075 adicionada no índice 5
+Chave 1956 adicionada no índice 5
+Chave 2583 já existe no índice 1
+Chave 9862 já existe no índice 59
+Chave 6301 adicionada no índice 2
+Chave 8194 já existe no índice 41
+Chave 2199 já existe no índice 5
+Chave 619 já existe no índice 31
+Chave 8979 já existe no índice 22
+Chave 6971 já existe no índice 94
+Chave 1476 adicionada no índice 8
+Chave 8816 já existe no índice 21
+Chave 4012 adicionada no índice 96
+Chave 7459 já existe no índice 36
+Chave 2338 já existe no índice 6
+Chave 7909 adicionada no índice 52
+Chave 2370 já existe no índice 6
+Chave 6668 adicionada no índice 62
+Chave 9661 adicionada no índice 34
+Chave 3956 adicionada no índice 49
+Chave 3513 já existe no índice 41
+Chave 321 já existe no índice 30
+Chave 9863 já existe no índice 78
+Chave 6235 adicionada no índice 75
+Chave 7171 já existe no índice 23
+Chave 5660 já existe no índice 35
+Chave 1777 adicionada no índice 7
+Chave 8824 já existe no índice 62
+Chave 7974 já existe no índice 84
+Chave 5045 adicionada no índice 52
+Chave 8049 adicionada no índice 86
+Chave 2099 já existe no índice 5
+Chave 3818 já existe no índice 77
+Chave 4724 adicionada no índice 16
+Chave 6191 adicionada no índice 28
+Chave 523 adicionada no índice 35
+Chave 2689 já existe no índice 0
+Chave 2987 já existe no índice 2
+Chave 9061 já existe no índice 1
+Chave 7553 já existe no índice 47
+Chave 1752 já existe no índice 9
+Chave 8304 já existe no índice 56
+Chave 9299 já existe no índice 71
+Chave 5895 já existe no índice 51
+Chave 2620 já existe no índice 4
+Chave 4044 já existe no índice 53
+Chave 5345 já existe no índice 69
+Chave 8295 já existe no índice 7
+Chave 7933 já existe no índice 32
+Chave 8225 adicionada no índice 50
+Chave 6449 já existe no índice 89
+Chave 1683 adicionada no índice 2
+Chave 7187 adicionada no índice 52
+Chave 409 adicionada no índice 72
+Chave 3350 adicionada no índice 22
+Chave 5444 adicionada no índice 37
+Chave 195 já existe no índice 0
+Chave 2265 já existe no índice 0
+Chave 5534 já existe no índice 25
+Chave 6953 já existe no índice 44
+Chave 3396 já existe no índice 32
+Chave 790 já existe no índice 41
+Chave 9319 adicionada no índice 43
+Chave 519 já existe no índice 93
+Chave 5609 adicionada no índice 60
+Chave 7406 adicionada no índice 48
+Chave 9408 adicionada no índice 10
+Chave 8764 adicionada no índice 7
+Chave 2340 já existe no índice 5
+Chave 9096 adicionada no índice 37
+Chave 3213 já existe no índice 23
+Chave 5105 adicionada no índice 61
+Chave 731 já existe no índice 43
+Chave 4483 adicionada no índice 97
+Chave 2321 já existe no índice 7
+Chave 9340 já existe no índice 35
+Chave 5796 já existe no índice 93
+Chave 6548 adicionada no índice 76
+Chave 5676 já existe no índice 16
+Chave 4574 já existe no índice 21
+Chave 8252 já existe no índice 95
+Chave 1906 já existe no índice 2
+Chave 1954 adicionada no índice 8
+Chave 392 adicionada no índice 36
+Chave 180 já existe no índice 4
+Chave 6798 adicionada no índice 12
+Chave 4461 adicionada no índice 0
+Chave 1714 já existe no índice 7
+Chave 2081 já existe no índice 0
+Chave 5275 já existe no índice 25
+Chave 6863 adicionada no índice 0
+Chave 2550 já existe no índice 2
+Chave 7811 já existe no índice 11
+Chave 386 já existe no índice 89
+Chave 3716 adicionada no índice 8
+Chave 7227 já existe no índice 29
+Chave 2683 adicionada no índice 8
+Chave 2441 adicionada no índice 8
+Chave 2251 já existe no índice 7
+Chave 1599 adicionada no índice 6
+Chave 938 adicionada no índice 98
+Chave 5512 já existe no índice 82
+Chave 1232 já existe no índice 7
+Chave 6100 já existe no índice 10
+Chave 8730 já existe no índice 12
+Chave 3685 já existe no índice 79
+Chave 2169 já existe no índice 4
+Chave 3698 já existe no índice 75
+Chave 2153 já existe no índice 5
+Chave 9887 adicionada no índice 52
+Chave 2964 adicionada no índice 5
+Chave 253 adicionada no índice 0
+Chave 6802 já existe no índice 67
+Chave 7364 adicionada no índice 28
+Chave 1649 adicionada no índice 9
+Chave 3303 já existe no índice 9
+Chave 4961 já existe no índice 11
+Chave 3339 já existe no índice 48
+Chave 4114 adicionada no índice 24
+Chave 1216 já existe no índice 8
+Chave 5974 já existe no índice 88
+Chave 6950 adicionada no índice 2
+Chave 7999 já existe no índice 84
+Chave 6842 já existe no índice 12
+Chave 2927 já existe no índice 7
+Chave 4561 adicionada no índice 2
+Chave 6368 já existe no índice 51
+Chave 3305 adicionada no índice 23
+Chave 4146 adicionada no índice 89
+Chave 5182 já existe no índice 53
+Chave 6701 já existe no índice 3
+Chave 2182 já existe no índice 1
+Chave 5040 adicionada no índice 1
+Chave 1635 adicionada no índice 3
+Chave 982 adicionada no índice 43
+Chave 90 adicionada no índice 10
+Chave 8478 já existe no índice 76
+Chave 5501 já existe no índice 61
+Chave 6250 adicionada no índice 62
+Chave 5699 já existe no índice 78
+Chave 4034 já existe no índice 73
+Chave 8392 adicionada no índice 25
+Chave 94 adicionada no índice 83
+Chave 2190 adicionada no índice 6
+Chave 6991 adicionada no índice 74
+Chave 9830 adicionada no índice 28
+Chave 3881 adicionada no índice 62
+Chave 2310 já existe no índice 6
+Chave 9996 adicionada no índice 20
+Chave 1888 já existe no índice 4
+Chave 3663 já existe no índice 17
+Chave 1624 já existe no índice 7
+Chave 3954 já existe no índice 34
+Chave 6189 adicionada no índice 3
+Chave 3747 já existe no índice 40
+Chave 1197 adicionada no índice 2
+Chave 707 adicionada no índice 98
+Chave 6882 já existe no índice 61
+Chave 7379 já existe no índice 49
+Chave 9865 adicionada no índice 18
+Chave 4389 já existe no índice 63
+Chave 1223 já existe no índice 5
+Chave 1693 adicionada no índice 6
+Chave 1322 já existe no índice 7
+Chave 2340 já existe no índice 5
+Chave 1362 adicionada no índice 5
+Chave 7933 já existe no índice 32
+Chave 5082 adicionada no índice 26
+Chave 537 já existe no índice 83
+Chave 354 já existe no índice 53
+Chave 9709 adicionada no índice 64
+Chave 4712 já existe no índice 2
+Chave 2213 já existe no índice 7
+Chave 1992 adicionada no índice 8
+Chave 5316 adicionada no índice 59
+Chave 301 já existe no índice 6
+Chave 5427 já existe no índice 52
+Chave 6578 já existe no índice 70
+Chave 2018 já existe no índice 2
+Chave 3022 já existe no índice 2
+Chave 7919 adicionada no índice 10
+Chave 2700 já existe no índice 0
+Chave 3995 adicionada no índice 60
+Chave 1021 adicionada no índice 2
+Chave 7348 já existe no índice 93
+Chave 386 já existe no índice 89
+Chave 255 adicionada no índice 0
+Chave 2808 adicionada no índice 4
+Chave 6030 já existe no índice 60
+Chave 8608 já existe no índice 97
+Chave 6371 já existe no índice 89
+Chave 8909 adicionada no índice 70
+Chave 7886 já existe no índice 88
+Chave 634 adicionada no índice 19
+Chave 8268 já existe no índice 59
+Chave 8690 adicionada no índice 16
+Chave 1090 já existe no índice 8
+Chave 1543 já existe no índice 0
+Chave 2348 já existe no índice 3
+Chave 857 já existe no índice 44
+Chave 7494 já existe no índice 60
+Chave 8258 adicionada no índice 94
+Chave 5718 adicionada no índice 95
+Chave 2963 já existe no índice 9
+Chave 9288 adicionada no índice 66
+Chave 3447 já existe no índice 81
+Chave 7224 já existe no índice 86
+Chave 2669 adicionada no índice 3
+Chave 3580 adicionada no índice 16
+Chave 5792 adicionada no índice 47
+Chave 6558 adicionada no índice 7
+Chave 9123 adicionada no índice 29
+Chave 8395 adicionada no índice 76
+Chave 9499 já existe no índice 31
+Chave 2993 adicionada no índice 8
+Chave 6623 já existe no índice 64
+Chave 1023 já existe no índice 6
+Chave 2058 adicionada no índice 5
+Chave 1597 adicionada no índice 0
+Chave 4051 já existe no índice 10
+Chave 9402 já existe no índice 97
+Chave 2994 adicionada no índice 4
+Chave 2535 já existe no índice 6
+Chave 5270 adicionada no índice 72
+Chave 5621 já existe no índice 95
+Chave 4776 já existe no índice 10
+Chave 5778 já existe no índice 85
+Chave 6803 já existe no índice 80
+Chave 160 já existe no índice 6
+Chave 166 já existe no índice 5
+Chave 7150 adicionada no índice 22
+Chave 335 adicionada no índice 22
+Chave 1356 já existe no índice 8
+Chave 5312 já existe no índice 17
+Chave 6827 já existe no índice 7
+Chave 6885 já existe no índice 3
+Chave 3132 já existe no índice 9
+Chave 3690 já existe no índice 16
+Chave 6395 já existe no índice 96
+Chave 8015 adicionada no índice 40
+Chave 7844 adicionada no índice 28
+Chave 7422 já existe no índice 86
+Chave 7453 já existe no índice 47
+Chave 845 já existe no índice 40
+Chave 814 já existe no índice 25
+Chave 331 adicionada no índice 95
+Chave 1772 já existe no índice 9
+Chave 6295 já existe no índice 27
+Chave 1210 adicionada no índice 4
+Chave 5827 já existe no índice 53
+Chave 2180 já existe no índice 2
+Chave 5878 já existe no índice 50
+Chave 2951 adicionada no índice 8
+Chave 5096 já existe no índice 69
+Chave 5985 já existe no índice 20
+Chave 2597 já existe no índice 4
+Chave 6 já existe no índice 36
+Chave 2508 já existe no índice 0
+Chave 9500 já existe no índice 50
+Chave 9129 já existe no índice 38
+Chave 7822 adicionada no índice 83
+Chave 6842 já existe no índice 12
+Chave 8040 já existe no índice 41
+Chave 5911 adicionada no índice 39
+Chave 6965 já existe no índice 11
+Chave 1199 adicionada no índice 7
+Chave 1415 adicionada no índice 2
+Chave 4848 adicionada no índice 3
+Chave 2860 adicionada no índice 9
+Chave 6415 já existe no índice 52
+Chave 6430 já existe no índice 44
+Chave 6445 já existe no índice 38
+Chave 4892 adicionada no índice 31
+Chave 7465 adicionada no índice 26
+Chave 6828 já existe no índice 21
+Chave 8077 já existe no índice 37
+Chave 7469 já existe no índice 85
+Chave 5099 já existe no índice 99
+Chave 9553 adicionada no índice 59
+Chave 6384 já existe no índice 55
+Chave 7042 já existe no índice 89
+Chave 5939 adicionada no índice 71
+Chave 6943 já existe no índice 5
+Chave 6768 adicionada no índice 5
+Chave 9261 já existe no índice 66
+Chave 3473 já existe no índice 61
+Chave 4176 já existe no índice 38
+Chave 9415 adicionada no índice 42
+Chave 4738 adicionada no índice 48
+Chave 2510 já existe no índice 0
+Chave 7471 já existe no índice 15
+Chave 396 já existe no índice 68
+Chave 159 adicionada no índice 2
+Chave 8157 já existe no índice 36
+Chave 7883 já existe no índice 41
+Chave 9409 adicionada no índice 29
+Chave 9413 já existe no índice 4
+Chave 3204 adicionada no índice 65
+Chave 8664 adicionada no índice 64
+Chave 1082 adicionada no índice 0
+Chave 5269 adicionada no índice 62
+Chave 9808 adicionada no índice 96
+Chave 2676 adicionada no índice 0
+Chave 8755 já existe no índice 50
+Chave 4821 já existe no índice 42
+Chave 1162 já existe no índice 0
+Chave 7042 já existe no índice 89
+Chave 6925 adicionada no índice 55
+Chave 4425 já existe no índice 80
+Chave 6363 adicionada no índice 87
+Chave 6975 já existe no índice 50
+Chave 433 adicionada no índice 74
+Chave 2437 adicionada no índice 8
+Chave 1113 já existe no índice 8
+Chave 9448 já existe no índice 64
+Chave 5195 adicionada no índice 88
+Chave 6110 já existe no índice 32
+Chave 3009 já existe no índice 4
+Chave 2462 já existe no índice 1
+Chave 8414 adicionada no índice 95
+Chave 2394 já existe no índice 1
+Chave 1247 já existe no índice 5
+Chave 6512 adicionada no índice 6
+Chave 9624 adicionada no índice 21
+Chave 566 já existe no índice 3
+Chave 3348 adicionada no índice 9
+Chave 700 já existe no índice 0
+Chave 9023 já existe no índice 14
+Chave 2114 já existe no índice 8
+Chave 1418 adicionada no índice 0
+Chave 8144 adicionada no índice 24
+Chave 7056 adicionada no índice 87
+Chave 6768 já existe no índice 5
+Chave 5410 adicionada no índice 68
+Chave 2703 já existe no índice 6
+Chave 6132 adicionada no índice 1
+Chave 5638 já existe no índice 87
+Chave 5277 já existe no índice 46
+Chave 4152 adicionada no índice 39
+Chave 9433 adicionada no índice 81
+Chave 2698 já existe no índice 9
+Chave 8407 adicionada no índice 77
+Chave 6862 já existe no índice 87
+Chave 1388 já existe no índice 6
+Chave 3056 adicionada no índice 9
+Chave 1604 já existe no índice 2
+Chave 42 já existe no índice 76
+Chave 8179 adicionada no índice 96
+Chave 9452 já existe no índice 40
+Chave 6168 já existe no índice 44
+Chave 3490 já existe no índice 80
+Chave 291 já existe no índice 6
+Chave 9602 já existe no índice 98
+Chave 8111 já existe no índice 88
+Chave 1697 já existe no índice 9
+Chave 7568 já existe no índice 74
+Chave 5243 já existe no índice 89
+Chave 4474 adicionada no índice 16
+Chave 1145 já existe no índice 1
+Chave 9136 adicionada no índice 66
+Chave 5244 já existe no índice 99
+Chave 1390 já existe no índice 2
+Chave 3678 já existe no índice 27
+Chave 1420 já existe no índice 6
+Chave 1941 já existe no índice 7
+Chave 8104 já existe no índice 74
+Chave 4468 já existe no índice 63
+Chave 181 já existe no índice 7
+Chave 1285 adicionada no índice 1
+Chave 8769 adicionada no índice 95
+Chave 3681 adicionada no índice 49
+Chave 7030 adicionada no índice 20
+Chave 2640 adicionada no índice 9
+Chave 6571 adicionada no índice 78
+Chave 8315 já existe no índice 39
+Chave 7449 já existe no índice 87
+Chave 736 adicionada no índice 16
+Chave 8600 já existe no índice 60
+Chave 5614 já existe no índice 16
+Chave 7996 já existe no índice 36
+Chave 9838 já existe no índice 86
+Chave 5196 já existe no índice 98
+Chave 9379 já existe no índice 65
+Chave 7073 já existe no índice 27
+Chave 2276 já existe no índice 0
+Chave 245 adicionada no índice 0
+Chave 4843 já existe no índice 54
+Chave 3929 já existe no índice 37
+Chave 4067 adicionada no índice 40
+Chave 2166 já existe no índice 1
+Chave 4842 já existe no índice 44
+Chave 1933 adicionada no índice 6
+Chave 1742 já existe no índice 4
+Chave 9630 adicionada no índice 36
+Chave 6581 adicionada no índice 9
+Chave 2907 adicionada no índice 0
+Chave 2443 adicionada no índice 8
+Chave 4443 já existe no índice 40
+Chave 1748 já existe no índice 5
+Chave 4071 já existe no índice 73
+Chave 5355 adicionada no índice 76
+Chave 1053 já existe no índice 8
+Chave 9784 adicionada no índice 26
+Chave 8013 adicionada no índice 8
+Chave 2277 já existe no índice 4
+Chave 9764 já existe no índice 35
+Chave 563 adicionada no índice 69
+Chave 4176 já existe no índice 38
+Chave 5866 já existe no índice 9
+Chave 7256 já existe no índice 49
+Chave 870 já existe no índice 69
+Chave 2281 já existe no índice 2
+Chave 950 já existe no índice 25
+Chave 4371 adicionada no índice 5
+Chave 6445 já existe no índice 38
+Chave 5015 já existe no índice 50
+Chave 5142 adicionada no índice 40
+Chave 6245 adicionada no índice 0
+Chave 6074 já existe no índice 93
+Chave 9273 já existe no índice 88
+Chave 9452 já existe no índice 40
+Chave 1817 adicionada no índice 1
+Chave 6975 já existe no índice 50
+Chave 3455 já existe no índice 37
+Chave 5052 adicionada no índice 22
+Chave 9787 adicionada no índice 85
+Chave 8956 adicionada no índice 9
+Chave 1971 já existe no índice 4
+Chave 6080 já existe no índice 66
+Chave 4468 já existe no índice 63
+Chave 9326 adicionada no índice 74
+Chave 9930 já existe no índice 4
+Chave 3833 já existe no índice 91
+Chave 8937 já existe no índice 69
+Chave 6537 já existe no índice 32
+Chave 7622 já existe no índice 94
+Chave 9623 já existe no índice 2
+Chave 6081 já existe no índice 78
+Chave 3572 adicionada no índice 59
+Chave 2464 já existe no índice 1
+Chave 7930 já existe no índice 84
+Chave 6980 adicionada no índice 20
+Chave 5194 adicionada no índice 77
+Chave 3733 adicionada no índice 35
+Chave 6391 já existe no índice 44
+Chave 6298 já existe no índice 64
+Chave 8700 já existe no índice 90
+Chave 9190 adicionada no índice 56
+Chave 4349 adicionada no índice 13
+Chave 5666 adicionada no índice 3
+Chave 9928 já existe no índice 65
+Chave 4342 já existe no índice 52
+Chave 2392 adicionada no índice 1
+Chave 1515 já existe no índice 5
+Chave 988 já existe no índice 61
+Chave 5954 adicionada no índice 50
+Chave 6500 adicionada no índice 50
+Chave 9896 adicionada no índice 30
+Chave 5174 já existe no índice 70
+Chave 3507 adicionada no índice 99
+Chave 1941 já existe no índice 7
+Chave 1927 já existe no índice 3
+Chave 4379 adicionada no índice 75
+Chave 5281 já existe no índice 88
+Chave 1699 já existe no índice 6
+Chave 6868 já existe no índice 69
+Chave 5374 já existe no índice 79
+Chave 9696 adicionada no índice 12
+Chave 8447 já existe no índice 51
+Chave 1900 já existe no índice 0
+Chave 4039 já existe no índice 13
+Chave 2231 já existe no índice 7
+Chave 9018 já existe no índice 24
+Chave 362 já existe no índice 10
+Chave 6969 já existe no índice 66
+Chave 252 já existe no índice 5
+Chave 4321 já existe no índice 71
+Chave 3838 já existe no índice 30
+Chave 7946 já existe no índice 38
+Chave 8263 adicionada no índice 77
+Chave 3828 já existe no índice 53
+Chave 2393 já existe no índice 6
+Chave 4553 adicionada no índice 29
+Chave 8946 adicionada no índice 30
+Chave 1196 já existe no índice 0
+Chave 218 já existe no índice 5
+Chave 9903 adicionada no índice 69
+Chave 374 já existe no índice 98
+Chave 5070 já existe no índice 4
+Chave 2152 adicionada no índice 1
+Chave 6322 adicionada no índice 67
+Chave 5704 já existe no índice 35
+Chave 4412 já existe no índice 65
+Chave 2825 adicionada no índice 0
+Chave 6150 adicionada no índice 22
+Chave 756 já existe no índice 15
+Chave 3612 já existe no índice 46
+Chave 1289 já existe no índice 1
+Chave 9646 já existe no índice 45
+Chave 8757 já existe no índice 85
+Chave 2174 já existe no índice 6
+Chave 6408 já existe no índice 62
+Chave 6641 adicionada no índice 2
+Chave 7116 já existe no índice 37
+Chave 5526 já existe no índice 36
+Chave 224 adicionada no índice 1
+Chave 5260 já existe no índice 67
+Chave 6345 já existe no índice 59
+Chave 479 já existe no índice 94
+Chave 6737 já existe no índice 87
+Chave 6673 adicionada no índice 28
+Chave 1995 já existe no índice 0
+Chave 8113 já existe no índice 20
+Chave 2245 adicionada no índice 0
+Chave 5790 já existe no índice 24
+Chave 68 adicionada no índice 62
+Chave 2298 já existe no índice 0
+Chave 3727 adicionada no índice 90
+Chave 1246 adicionada no índice 2
+Chave 5576 já existe no índice 91
+Chave 4818 já existe no índice 13
+Chave 5362 adicionada no índice 51
+Chave 7476 já existe no índice 90
+Chave 3003 adicionada no índice 8
+Chave 2998 adicionada no índice 8
+Chave 3048 adicionada no índice 0
+Chave 2384 adicionada no índice 3
+Chave 2001 já existe no índice 4
+Chave 4278 já existe no índice 1
+Chave 6174 adicionada no índice 18
+Chave 5221 adicionada no índice 58
+Chave 4152 já existe no índice 39
+Chave 7089 já existe no índice 53
+Chave 9590 adicionada no índice 68
+Chave 7713 adicionada no índice 90
+Chave 1994 já existe no índice 6
+Chave 4403 já existe no índice 86
+Chave 8788 já existe no índice 28
+Chave 4492 já existe no índice 78
+Chave 188 já existe no índice 3
+Chave 1843 já existe no índice 6
+Chave 7847 já existe no índice 75
+Chave 6527 já existe no índice 1
+Chave 441 adicionada no índice 44
+Chave 3804 já existe no índice 70
+Chave 2770 adicionada no índice 2
+Chave 9653 adicionada no índice 80
+Chave 6093 adicionada no índice 24
+Chave 8608 já existe no índice 97
+Chave 6538 já existe no índice 45
+Chave 7413 adicionada no índice 52
+Chave 2715 já existe no índice 1
+Chave 2690 já existe no índice 6
+Chave 4844 adicionada no índice 64
+Chave 698 já existe no índice 72
+Chave 3982 adicionada no índice 56
+Chave 111 adicionada no índice 3
+Chave 3885 já existe no índice 93
+Chave 7421 já existe no índice 71
+Chave 9930 já existe no índice 4
+Chave 2087 já existe no índice 5
+Chave 1605 adicionada no índice 6
+Chave 2318 adicionada no índice 3
+Chave 3536 adicionada no índice 3
+Chave 7028 adicionada no índice 92
+Chave 7597 adicionada no índice 14
+Chave 8369 já existe no índice 40
+Chave 5828 adicionada no índice 65
+Chave 8664 já existe no índice 64
+Chave 9912 já existe no índice 47
+Chave 7140 adicionada no índice 79
+Chave 1832 já existe no índice 6
+Chave 9442 já existe no índice 51
+Chave 9208 adicionada no índice 87
+Chave 2472 já existe no índice 0
+Chave 2370 já existe no índice 6
+Chave 385 adicionada no índice 82
+Chave 9934 já existe no índice 84
+Chave 7889 já existe no índice 36
+Chave 2547 adicionada no índice 7
+Chave 1634 adicionada no índice 9
+Chave 2188 já existe no índice 7
+Chave 2224 adicionada no índice 6
+Chave 1889 já existe no índice 8
+Chave 3507 já existe no índice 99
+Chave 8854 adicionada no índice 93
+Chave 913 já existe no índice 35
+Chave 2837 já existe no índice 8
+Chave 8206 adicionada no índice 38
+Chave 2112 já existe no índice 0
+Chave 8982 já existe no índice 76
+Chave 2809 já existe no índice 0
+Chave 7965 adicionada no índice 41
+Chave 5039 adicionada no índice 91
+Chave 7419 adicionada no índice 41
+Chave 2038 já existe no índice 3
+Chave 25 já existe no índice 2
+Chave 1440 já existe no índice 3
+Chave 7447 já existe no índice 57
+Chave 502 já existe no índice 20
+Chave 5979 já existe no índice 48
+Chave 9038 adicionada no índice 85
+Chave 5655 já existe no índice 79
+Chave 309 já existe no índice 4
+Chave 9828 já existe no índice 89
+Chave 4867 já existe no índice 87
+Chave 8969 já existe no índice 42
+Chave 49 já existe no índice 40
+Chave 3617 já existe no índice 82
+Chave 4804 já existe no índice 78
+Chave 8809 adicionada no índice 98
+Chave 5971 já existe no índice 52
+Chave 8246 adicionada no índice 96
+Chave 7172 já existe no índice 37
+Chave 7375 adicionada no índice 90
+Chave 2175 já existe no índice 0
+Chave 6298 já existe no índice 64
+Chave 8883 já existe no índice 7
+Chave 8895 já existe no índice 21
+Chave 1686 já existe no índice 2
+Chave 6154 adicionada no índice 71
+Chave 7756 já existe no índice 55
+Chave 3917 já existe no índice 42
+Chave 3625 já existe no índice 40
+Chave 5303 já existe no índice 21
+Chave 433 já existe no índice 74
+Chave 1759 adicionada no índice 4
+Chave 1493 já existe no índice 9
+Chave 305 já existe no índice 0
+Chave 5513 já existe no índice 93
+Chave 9799 já existe no índice 20
+Chave 8189 já existe no índice 59
+Chave 3277 já existe no índice 38
+Chave 9132 já existe no índice 93
+Chave 7013 adicionada no índice 82
+Chave 6538 já existe no índice 45
+Chave 8676 adicionada no índice 72
+Chave 7521 adicionada no índice 65
+Chave 1293 já existe no índice 1
+Chave 9262 adicionada no índice 84
+Chave 2880 adicionada no índice 4
+Chave 2900 já existe no índice 0
+Chave 5100 já existe no índice 10
+Chave 7398 adicionada no índice 30
+Chave 6773 adicionada no índice 73
+Chave 154 já existe no índice 7
+Chave 3982 já existe no índice 56
+Chave 9601 já existe no índice 79
+Chave 8324 já existe no índice 88
+Chave 5905 já existe no índice 69
+Chave 6089 adicionada no índice 75
+Chave 4935 já existe no índice 54
+Chave 2396 já existe no índice 0
+Chave 68 já existe no índice 62
+Chave 8907 já existe no índice 34
+Chave 7983 adicionada no índice 28
+Chave 1391 já existe no índice 4
+Chave 1943 já existe no índice 5
+Chave 7327 já existe no índice 84
+Chave 1734 já existe no índice 6
+Chave 8839 adicionada no índice 27
+Chave 1309 adicionada no índice 3
+Chave 8027 já existe no índice 32
+Chave 4452 adicionada no índice 20
+Chave 271 já existe no índice 4
+Chave 896 adicionada no índice 28
+Chave 4638 adicionada no índice 11
+Chave 8528 já existe no índice 26
+Chave 8550 adicionada no índice 2
+Chave 9640 adicionada no índice 29
+Chave 2086 já existe no índice 1
+Chave 5810 adicionada no índice 56
+Chave 1060 adicionada no índice 3
+Chave 2666 já existe no índice 7
+Chave 3145 adicionada no índice 1
+Chave 413 adicionada no índice 5
+Chave 9826 adicionada no índice 50
+Chave 6118 já existe no índice 29
+Chave 1687 adicionada no índice 5
+Chave 7210 já existe no índice 84
+Chave 1318 já existe no índice 7
+Chave 6616 adicionada no índice 71
+Chave 6249 já existe no índice 50
+Chave 9577 adicionada no índice 18
+Chave 6445 já existe no índice 38
+Chave 2795 já existe no índice 2
+Chave 361 já existe no índice 3
+Chave 2232 já existe no índice 1
+Chave 9151 já existe no índice 40
+Chave 2317 adicionada no índice 8
+Chave 7008 adicionada no índice 12
+Chave 7204 adicionada no índice 97
+Chave 5043 já existe no índice 31
+Chave 4465 já existe no índice 36
+Chave 789 já existe no índice 25
+Chave 2660 já existe no índice 5
+Chave 3049 adicionada no índice 6
+Chave 6584 adicionada no índice 49
+Chave 4701 adicionada no índice 99
+Chave 9583 já existe no índice 33
+Chave 5197 adicionada no índice 8
+Chave 7451 adicionada no índice 17
+Chave 9621 já existe no índice 63
+Chave 5227 já existe no índice 21
+Chave 4861 adicionada no índice 29
+Chave 10 adicionada no índice 0
+Chave 4299 já existe no índice 81
+Chave 2382 adicionada no índice 3
+Chave 6037 adicionada no índice 45
+Chave 6004 adicionada no índice 48
+Chave 8669 já existe no índice 51
+Chave 7987 adicionada no índice 92
+Chave 9926 já existe no índice 25
+Chave 97 já existe no índice 40
+Chave 53 adicionada no índice 80
+Chave 7499 adicionada no índice 35
+Chave 1076 já existe no índice 7
+Chave 9644 adicionada no índice 6
+Chave 8841 adicionada no índice 63
+Chave 3032 adicionada no índice 3
+Chave 1232 já existe no índice 7
+Chave 1795 adicionada no índice 2
+Chave 6936 adicionada no índice 8
+Chave 8849 adicionada no índice 4
+Chave 3850 adicionada no índice 22
+Chave 942 já existe no índice 73
+Chave 3496 adicionada no índice 22
+Chave 3945 já existe no índice 63
+Chave 9694 adicionada no índice 73
+Chave 8460 já existe no índice 71
+Chave 6873 já existe no índice 38
+Chave 470 já existe no índice 9
+Chave 2625 já existe no índice 0
+Chave 1489 adicionada no índice 7
+Chave 5304 já existe no índice 32
+Chave 9819 já existe no índice 12
+Chave 3533 adicionada no índice 82
+Chave 2538 já existe no índice 1
+Chave 4034 já existe no índice 73
+Chave 1974 já existe no índice 6
+Chave 1331 já existe no índice 1
+Chave 8502 já existe no índice 84
+Chave 6527 já existe no índice 1
+Chave 5696 adicionada no índice 44
+Chave 2241 já existe no índice 2
+Chave 1518 já existe no índice 4
+Chave 2207 já existe no índice 0
+Chave 7623 já existe no índice 10
+Chave 9213 já existe no índice 79
+Chave 3593 adicionada no índice 9
+Chave 1218 adicionada no índice 3
+Chave 935 já existe no índice 42
+Chave 9313 adicionada no índice 31
+Chave 8644 já existe no índice 18
+Chave 2075 já existe no índice 5
+Chave 2332 já existe no índice 8
+Chave 3104 já existe no índice 4
+Chave 5957 adicionada no índice 85
+Chave 9832 já existe no índice 68
+Chave 3709 adicionada no índice 56
+Chave 3617 já existe no índice 82
+Chave 7476 já existe no índice 90
+Chave 1215 já existe no índice 6
+Chave 6338 já existe no índice 70
+Chave 856 adicionada no índice 27
+Chave 594 já existe no índice 28
+Chave 9813 já existe no índice 94
+Chave 3349 adicionada no índice 15
+Chave 8114 adicionada no índice 36
+Chave 1491 já existe no índice 3
+Chave 7648 já existe no índice 91
+Chave 5300 adicionada no índice 90
+Chave 6919 adicionada no índice 72
+Chave 1400 já existe no índice 0
+Chave 1242 já existe no índice 2
+Chave 6401 adicionada no índice 72
+Chave 387 já existe no índice 97
+Chave 8944 adicionada no índice 95
+Chave 7113 adicionada no índice 94
+Chave 3694 já existe no índice 45
+Chave 777 já existe no índice 37
+Chave 446 já existe no índice 89
+Chave 5351 já existe no índice 33
+Chave 663 já existe no índice 95
+Chave 6649 já existe no índice 9
+Chave 5128 já existe no índice 96
+Chave 5134 já existe no índice 57
+Chave 676 adicionada no índice 69
+Chave 9929 já existe no índice 85
+Chave 3776 adicionada no índice 58
+Chave 9478 adicionada no índice 32
+Chave 7398 já existe no índice 30
+Chave 2708 adicionada no índice 3
+Chave 8476 já existe no índice 42
+Chave 4793 adicionada no índice 72
+Chave 4723 já existe no índice 6
+Chave 6168 já existe no índice 44
+Chave 4739 já existe no índice 58
+Chave 7638 adicionada no índice 39
+Chave 6471 já existe no índice 73
+Chave 3612 já existe no índice 46
+Chave 2653 adicionada no índice 8
+Chave 6121 já existe no índice 66
+Chave 5354 já existe no índice 65
+Chave 1497 adicionada no índice 1
+Chave 8911 adicionada no índice 5
+Chave 4197 já existe no índice 14
+Chave 4907 já existe no índice 78
+Chave 3598 já existe no índice 45
+Chave 84 já existe no índice 5
+Chave 5443 já existe no índice 26
+Chave 6042 adicionada no índice 5
+Chave 4537 adicionada no índice 84
+Chave 3860 já existe no índice 99
+Chave 9518 adicionada no índice 92
+Chave 3434 adicionada no índice 92
+Chave 2438 adicionada no índice 3
+Chave 9177 adicionada no índice 17
+Chave 1472 já existe no índice 6
+Chave 657 já existe no índice 16
+Chave 6800 adicionada no índice 40
+Chave 9158 já existe no índice 68
+Chave 8503 já existe no índice 1
+Chave 6424 já existe no índice 67
+Chave 6582 já existe no índice 22
+Chave 2399 já existe no índice 5
+Chave 7961 adicionada no índice 77
+Chave 4690 adicionada no índice 96
+Chave 5230 já existe no índice 52
+Chave 5502 adicionada no índice 72
+Chave 6790 adicionada no índice 4
+Chave 2533 já existe no índice 6
+Chave 5459 adicionada no índice 0
+Chave 2946 já existe no índice 8
+Chave 1658 adicionada no índice 8
+Chave 1061 adicionada no índice 5
+Chave 8742 já existe no índice 22
+Chave 322 já existe no índice 36
+Chave 8106 já existe no índice 7
+Chave 9896 já existe no índice 30
+Chave 8287 já existe no índice 74
+Chave 7834 adicionada no índice 71
+Chave 1547 já existe no índice 3
+Chave 8880 já existe no índice 54
+Chave 1029 já existe no índice 8
+Chave 2064 já existe no índice 0
+Chave 7959 adicionada no índice 45
+Chave 2921 adicionada no índice 2
+Chave 3522 adicionada no índice 4
+Chave 7014 adicionada no índice 96
+Chave 4355 adicionada no índice 66
+Chave 290 já existe no índice 1
+Chave 2413 já existe no índice 2
+Chave 6788 já existe no índice 76
+Chave 4344 já existe no índice 70
+Chave 28 já existe no índice 8
+Chave 9116 já existe no índice 1
+Chave 169 já existe no índice 5
+Chave 8093 adicionada no índice 96
+Chave 2112 já existe no índice 0
+Chave 3643 adicionada no índice 71
+Chave 786 já existe no índice 77
+Chave 1059 já existe no índice 1
+Chave 6159 já existe no índice 33
+Chave 4129 adicionada no índice 48
+Chave 2778 já existe no índice 7
+Chave 4356 já existe no índice 74
+Chave 1002 adicionada no índice 4
+Chave 6915 adicionada no índice 17
+Chave 2566 já existe no índice 4
+Chave 3002 já existe no índice 2
+Chave 7839 já existe no índice 49
+Chave 8129 já existe no índice 80
+Chave 4709 adicionada no índice 74
+Chave 2433 já existe no índice 9
+Chave 6653 já existe no índice 62
+Chave 4406 já existe no índice 12
+Chave 6859 já existe no índice 45
+Chave 6688 adicionada no índice 29
+Chave 8103 já existe no índice 58
+Chave 1815 já existe no índice 4
+Chave 7683 já existe no índice 28
+Chave 7128 já existe no índice 8
+Chave 6401 já existe no índice 72
+Chave 6623 já existe no índice 64
+Chave 9000 já existe no índice 0
+Chave 2940 já existe no índice 3
+Chave 7769 já existe no índice 57
+Chave 1913 adicionada no índice 9
+Chave 8335 já existe no índice 72
+Chave 9552 já existe no índice 40
+Chave 1409 adicionada no índice 5
+Chave 4591 já existe no índice 77
+Chave 6172 já existe no índice 93
+Chave 207 adicionada no índice 8
+Chave 8472 adicionada no índice 74
+Chave 6189 já existe no índice 3
+Chave 6519 já existe no índice 97
+Chave 2429 já existe no índice 0
+Chave 790 já existe no índice 41
+Chave 2158 já existe no índice 6
+Chave 8151 adicionada no índice 38
+Chave 2056 já existe no índice 7
+Chave 209 adicionada no índice 6
+Chave 6152 adicionada no índice 47
+Chave 9406 já existe no índice 72
+Chave 3265 já existe no índice 60
+Chave 8416 adicionada no índice 29
+Chave 560 adicionada no índice 36
+Chave 746 já existe no índice 65
+Chave 6466 adicionada no índice 9
+Chave 9871 já existe no índice 36
+Chave 5247 já existe no índice 31
+Chave 1322 já existe no índice 7
+Chave 5466 adicionada no índice 77
+Chave 8918 já existe no índice 30
+Chave 243 já existe no índice 0
+Chave 1460 já existe no índice 1
+Chave 6381 já existe no índice 17
+Chave 573 adicionada no índice 83
+Chave 5475 já existe no índice 75
+Chave 7894 já existe no índice 15
+Chave 7630 já existe no índice 16
+Chave 3638 adicionada no índice 35
+Chave 3800 adicionada no índice 40
+Chave 7133 adicionada no índice 79
+Chave 995 já existe no índice 0
+Chave 3461 já existe no índice 78
+Chave 9007 adicionada no índice 26
+Chave 1355 já existe no índice 6
+Chave 5878 já existe no índice 50
+Chave 8339 adicionada no índice 38
+Chave 5995 adicionada no índice 40
+Chave 752 já existe no índice 55
+Chave 4510 já existe no índice 40
+Chave 349 adicionada no índice 18
+Chave 340 já existe no índice 56
+Chave 6413 adicionada no índice 26
+Chave 5695 já existe no índice 33
+Chave 1290 já existe no índice 4
+Chave 2518 já existe no índice 0
+Chave 1970 já existe no índice 0
+Chave 5325 já existe no índice 55
+Chave 434 adicionada no índice 83
+Chave 610 já existe no índice 21
+Chave 8826 já existe no índice 98
+Chave 8743 já existe no índice 40
+Chave 7767 adicionada no índice 26
+Chave 878 já existe no índice 8
+Chave 2545 já existe no índice 7
+Chave 2485 adicionada no índice 5
+Chave 4059 já existe no índice 75
+Chave 721 já existe no índice 98
+Chave 9507 já existe no índice 83
+Chave 4847 adicionada no índice 93
+Chave 4045 já existe no índice 62
+Chave 9389 adicionada no índice 53
+Chave 4763 já existe no índice 86
+Chave 7130 já existe no índice 36
+Chave 7816 já existe no índice 89
+Chave 9902 adicionada no índice 49
+Chave 9797 já existe no índice 81
+Chave 3253 já existe no índice 82
+Chave 4595 adicionada no índice 14
+Chave 3871 já existe no índice 84
+Chave 9624 já existe no índice 21
+Chave 6618 já existe no índice 97
+Chave 813 adicionada no índice 9
+Chave 8841 já existe no índice 63
+Chave 7188 já existe no índice 67
+Chave 2075 já existe no índice 5
+Chave 1390 já existe no índice 2
+Chave 329 já existe no índice 82
+Chave 1212 já existe no índice 8
+Chave 137 já existe no índice 7
+Chave 5657 adicionada no índice 1
+Chave 3264 já existe no índice 53
+Chave 2111 já existe no índice 6
+Chave 2870 já existe no índice 6
+Chave 5444 já existe no índice 37
+Chave 1550 já existe no índice 2
+Chave 105 já existe no índice 0
+Chave 2817 já existe no índice 5
+Chave 5152 já existe no índice 43
+Chave 9913 adicionada no índice 67
+Chave 9350 adicionada no índice 22
+Chave 2060 já existe no índice 3
+Chave 7835 já existe no índice 87
+Chave 2215 já existe no índice 6
+Chave 4839 adicionada no índice 15
+Chave 4113 adicionada no índice 16
+Chave 1154 adicionada no índice 1
+Chave 8679 já existe no índice 25
+Chave 586 já existe no índice 33
+Chave 3240 já existe no índice 97
+Chave 1573 adicionada no índice 4
+Chave 2595 já existe no índice 4
+Chave 8743 já existe no índice 40
+Chave 6005 já existe no índice 60
+Chave 5800 já existe no índice 40
+Chave 5673 já existe no índice 82
+Chave 8208 adicionada no índice 71
+Chave 5201 adicionada no índice 50
+Chave 518 adicionada no índice 83
+Chave 8905 já existe no índice 99
+Chave 3168 já existe no índice 36
+Chave 2380 já existe no índice 4
+Chave 293 já existe no índice 8
+Chave 9945 já existe no índice 3
+Chave 2719 adicionada no índice 2
+Chave 1053 já existe no índice 8
+Chave 9712 já existe no índice 22
+Chave 3450 já existe no índice 2
+Chave 6817 já existe no índice 71
+Chave 3483 já existe no índice 31
+Chave 5768 já existe no índice 69
+Chave 9849 já existe no índice 2
+Chave 5121 adicionada no índice 24
+Chave 8369 já existe no índice 40
+Chave 5567 já existe no índice 91
+Chave 3472 já existe no índice 54
+Chave 5030 adicionada no índice 0
+Chave 9000 já existe no índice 0
+Chave 5669 adicionada no índice 37
+Chave 1736 já existe no índice 3
+Chave 7663 já existe no índice 21
+Chave 6529 adicionada no índice 27
+Chave 2884 já existe no índice 7
+Chave 6337 já existe no índice 57
+Chave 4702 adicionada no índice 8
+Chave 1039 já existe no índice 9
+Chave 8807 adicionada no índice 63
+Chave 9201 adicionada no índice 58
+Chave 6130 adicionada no índice 76
+Chave 3424 já existe no índice 23
+Chave 1236 adicionada no índice 7
+Chave 5660 já existe no índice 35
+Chave 1819 já existe no índice 8
+Chave 6898 adicionada no índice 82
+Chave 2396 já existe no índice 0
+Chave 1656 já existe no índice 2
+Chave 2589 já existe no índice 2
+Chave 3838 já existe no índice 30
+Chave 4796 já existe no índice 1
+Chave 6797 adicionada no índice 99
+Chave 4692 adicionada no índice 14
+Chave 8351 adicionada no índice 39
+Chave 5402 já existe no índice 81
+Chave 1417 já existe no índice 7
+Chave 7175 já existe no índice 80
+Chave 5099 já existe no índice 99
+Chave 5225 adicionada no índice 0
+Chave 7814 já existe no índice 58
+Chave 5961 já existe no índice 33
+Chave 9608 adicionada no índice 13
+Chave 4593 já existe no índice 95
+Chave 6204 já existe no índice 89
+Chave 8884 já existe no índice 25
+Chave 334 já existe no índice 15
+Chave 2683 já existe no índice 8
+Chave 4559 já existe no índice 84
+Chave 7601 adicionada no índice 75
+Chave 717 já existe no índice 40
+Chave 2355 já existe no índice 6
+Chave 7303 já existe no índice 33
+Chave 482 já existe no índice 23
+Chave 8493 já existe no índice 31
+Chave 6455 adicionada no índice 67
+Chave 4935 já existe no índice 54
+Chave 2103 já existe no índice 2
+Chave 8021 adicionada no índice 36
+Chave 4921 adicionada no índice 16
+Chave 539 já existe no índice 5
+Chave 8721 já existe no índice 55
+Chave 8705 já existe no índice 77
+Chave 2137 já existe no índice 6
+Chave 1689 adicionada no índice 2
+Chave 5071 já existe no índice 15
+Chave 2376 já existe no índice 5
+Chave 1555 já existe no índice 8
+Chave 8528 já existe no índice 26
+Chave 3132 já existe no índice 9
+Chave 6769 já existe no índice 19
+Chave 6796 já existe no índice 85
+Chave 681 já existe no índice 37
+Chave 518 já existe no índice 83
+Chave 8536 adicionada no índice 63
+Chave 999 já existe no índice 80
+Chave 6305 adicionada no índice 53
+Chave 6233 adicionada no índice 50
+Chave 3986 adicionada no índice 88
+Chave 4618 adicionada no índice 25
+Chave 3958 já existe no índice 65
+Chave 4442 adicionada no índice 31
+Chave 9017 já existe no índice 6
+Chave 6169 adicionada no índice 56
+Chave 2680 já existe no índice 2
+Chave 9102 já existe no índice 46
+Chave 1777 já existe no índice 7
+Chave 1315 já existe no índice 9
+Chave 315 já existe no índice 2
+Chave 4287 adicionada no índice 78
+Chave 794 adicionada no índice 4
+Chave 7126 já existe no índice 79
+Chave 6008 adicionada no índice 96
+Chave 8915 já existe no índice 77
+Chave 544 adicionada no índice 59
+Chave 4234 já existe no índice 26
+Chave 9368 já existe no índice 59
+Chave 2563 já existe no índice 8
+Chave 3812 já existe no índice 31
+Chave 2487 já existe no índice 5
+Chave 3926 adicionada no índice 13
+Chave 1408 já existe no índice 2
+Chave 4763 já existe no índice 86
+Chave 487 adicionada no índice 71
+Chave 4424 adicionada no índice 71
+Chave 8932 já existe no índice 80
+Chave 3022 já existe no índice 2
+Chave 9408 já existe no índice 10
+Chave 8645 adicionada no índice 36
+Chave 420 já existe no índice 64
+Chave 6290 já existe no índice 64
+Chave 7461 já existe no índice 66
+Chave 3021 adicionada no índice 6
+Chave 6918 adicionada no índice 58
+Chave 611 já existe no índice 33
+Chave 2762 adicionada no índice 8
+Chave 5136 já existe no índice 78
+Chave 6218 adicionada no índice 63
+Chave 6242 já existe no índice 62
+Chave 3598 já existe no índice 45
+Chave 944 adicionada no índice 11
+Chave 7788 adicionada no índice 52
+Chave 2825 já existe no índice 0
+Chave 4949 já existe no índice 92
+Chave 7415 já existe no índice 82
+Chave 4074 adicionada no índice 97
+Chave 5937 já existe no índice 47
+Chave 2050 já existe no índice 2
+Chave 6359 já existe no índice 36
+Chave 9636 já existe no índice 52
+Chave 65 já existe no índice 22
+Chave 1361 já existe no índice 2
+Chave 9787 já existe no índice 85
+Chave 7247 já existe no índice 19
+Chave 306 já existe no índice 6
+Chave 1882 já existe no índice 1
+Chave 9829 já existe no índice 9
+Chave 5958 adicionada no índice 97
+Chave 1673 já existe no índice 8
+Chave 5039 já existe no índice 91
+Chave 9383 adicionada no índice 40
+Chave 8580 já existe no índice 16
+Chave 6015 adicionada no índice 80
+Chave 2966 adicionada no índice 7
+Chave 1154 já existe no índice 1
+Chave 7249 já existe no índice 48
+Chave 4024 adicionada no índice 92
+Chave 5305 já existe no índice 43
+Chave 1602 já existe no índice 6
+Chave 8958 já existe no índice 45
+Chave 54 já existe no índice 91
+Chave 8924 já existe no índice 37
+Chave 92 adicionada no índice 46
+Chave 3850 já existe no índice 22
+Chave 4548 já existe no índice 84
+Chave 5480 já existe no índice 30
+Chave 6837 já existe no índice 44
+Chave 8191 adicionada no índice 92
+Chave 2003 já existe no índice 2
+Chave 1966 adicionada no índice 5
+Chave 8351 já existe no índice 39
+Chave 3552 já existe no índice 16
+Chave 8705 já existe no índice 77
+Chave 5615 já existe no índice 28
+Chave 1864 já existe no índice 4
+Chave 7082 já existe no índice 54
+Chave 4276 já existe no índice 84
+Chave 5386 adicionada no índice 8
+Chave 1818 já existe no índice 5
+Chave 9584 já existe no índice 53
+Chave 2944 já existe no índice 7
+Chave 4566 adicionada no índice 48
+Chave 1451 adicionada no índice 5
+Chave 3499 adicionada no índice 43
+Chave 1569 já existe no índice 1
+Chave 2859 adicionada no índice 3
+Chave 1834 já existe no índice 3
+Chave 3101 já existe no índice 6
+Chave 8570 adicionada no índice 44
+Chave 257 já existe no índice 0
+Chave 559 já existe no índice 24
+Chave 3935 adicionada no índice 84
+Chave 5362 já existe no índice 51
+Chave 7812 já existe no índice 27
+Chave 1495 já existe no índice 5
+Chave 3958 já existe no índice 65
+Chave 2746 adicionada no índice 0
+Chave 9709 já existe no índice 64
+Chave 7690 já existe no índice 36
+Chave 7062 já existe no índice 71
+Chave 2444 adicionada no índice 3
+Chave 9280 já existe no índice 18
+Chave 6308 adicionada no índice 90
+Chave 7697 já existe no índice 43
+Chave 3314 adicionada no índice 82
+Chave 2929 adicionada no índice 9
+Chave 2211 já existe no índice 8
+Chave 9447 já existe no índice 45
+Número total de colisões: 6138

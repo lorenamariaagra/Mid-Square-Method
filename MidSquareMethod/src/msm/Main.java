@@ -6,7 +6,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
     	HashTable hashTable = new HashTable(300); 
-        String arquivo = "random_numbers.txt"; // ou o caminho completo, como "/caminho/do/arquivo/random_numbers.txt"
+        String arquivo = "random_numbers_0...10000.txt"; // ou o caminho completo, como "/caminho/do/arquivo/random_numbers.txt"
         
         try {
             BufferedReader reader = new BufferedReader(new FileReader(arquivo));

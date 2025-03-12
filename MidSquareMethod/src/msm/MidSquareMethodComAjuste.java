@@ -35,11 +35,6 @@ public class MidSquareMethodComAjuste {
 	       valorHash = valorHash % tamanhoTabela; // Ajusta para caber na tabela
 	       return valorHash; // Retorna o valorHash que já está dentro do tamanho da tabela
 	   }
-	   public static void main(String[] args) {
-	       int chave = 5;
-	       int tamanhoTabela = 100;
-	       int indiceHash = hashingQuadradoDoMeio(chave, tamanhoTabela);
-	       System.out.println("Índice de hash gerado: " + indiceHash); // Agora o índice é o número central
-	   }
+	   
 	}
 

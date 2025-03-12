@@ -5,11 +5,14 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-    	HashTable hashTable = new HashTable(100); 
-
+    	HashTable hashTable = new HashTable(300); 
+        String arquivo = "random_numbers.txt"; // ou o caminho completo, como "/caminho/do/arquivo/random_numbers.txt"
+        
         try {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+            BufferedReader reader = new BufferedReader(new FileReader(arquivo));
             String line = "";
+            
+            // Lê linha por linha do arquivo
             while ((line = reader.readLine()) != null) {
                 // Quebra a linha em tokens separados por espaço
                 String[] tokens = line.split(" ");
@@ -28,14 +31,16 @@ public class Main {
                     }
                 }
 
-                long end = System.nanoTime();
-                long time = end - start; // Tempo total de execução
-
-                // Saída padrão: método, tempo de execução, tamanho da entrada
-                System.out.println("hashingQuadradoDoMeio " + time + " " + tokens.length);
             }
+            
+            // Exibe o número total de colisões após o processamento do arquivo
+            System.out.println("Número total de colisões: " + hashTable.getNumeroDeColisoes());
+
+            // Fecha o BufferedReader após ler o arquivo
+            reader.close();
+
         } catch (IOException ioe) {
-            System.out.println("Erro ao ler a entrada: " + ioe.getMessage());
+            System.out.println("Erro ao ler a entrada do arquivo: " + ioe.getMessage());
         }
     }
 }

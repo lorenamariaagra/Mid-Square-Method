@@ -29,13 +29,10 @@ public class MidSquareMethodComAjuste {
 	   // Função de hashing usando o método do quadrado do meio
 	   public static int hashingQuadradoDoMeio(int chave, int tamanhoTabela) {
 	       long quadradoChave = (long) chave * chave; // Quadrado da chave
-	       System.out.println("Quadrado da chave (" + chave + "): " + quadradoChave);
 	       // Pegando o número central do quadrado da chave
 	       int valorHash = obterNumeroCentral(quadradoChave);
-	       System.out.println("Número central extraído: " + valorHash);
 	       // Garantir que o índice de hash esteja dentro do tamanho da tabela
 	       valorHash = valorHash % tamanhoTabela; // Ajusta para caber na tabela
-	       System.out.println("ValorHash ajustado para caber na tabela: " + valorHash);
 	       return valorHash; // Retorna o valorHash que já está dentro do tamanho da tabela
 	   }
 	   public static void main(String[] args) {

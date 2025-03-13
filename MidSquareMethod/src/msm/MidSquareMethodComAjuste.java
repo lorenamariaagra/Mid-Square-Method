@@ -36,12 +36,15 @@ public class MidSquareMethodComAjuste {
                 numeroResultado = numeroResultado * 10 + digito;
             }
         }
-
         return numeroResultado;
     }
 
+            
+
     // Função de hashing utilizando o método do quadrado do meio
     public static int hashingMidSquare(int chave, int tamanhoTabela) {
+    	int tamanho = tamanhoTabela - 1;
+    	int digitosTamanhoTable = contarDigitos(tamanho);
         // Calculando o quadrado da chave
         long quadradoChave = (long) chave * chave;
 
@@ -50,13 +53,11 @@ public class MidSquareMethodComAjuste {
         int posicaoMeio = tamanhoQuadrado / 2;
 
         // Pegando os 3 dígitos centrais do quadrado
-        int digitosCentrais = pegarIntervaloDeDigitos(quadradoChave, posicaoMeio, 3); // Pegando 3 dígitos centrais
+        int digitosCentrais = pegarIntervaloDeDigitos(quadradoChave, posicaoMeio,digitosTamanhoTable ); // Pegando 3 dígitos centrais
 
         // Garantir que o valor do hash esteja dentro dos limites da tabela (tamanho da tabela)
-        if(digitosCentrais > tamanhoTabela) {
-        	return digitosCentrais % tamanhoTabela;
-        }
-    	return  digitosCentrais;
+        int hash = digitosCentrais;
+        return hash;
     }
-	}
+}
 

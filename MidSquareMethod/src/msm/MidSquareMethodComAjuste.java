@@ -1,50 +1,47 @@
 package msm;
-
 public class MidSquareMethodComAjuste {
-	
-	public static int contarDigitos(long numero) {
-        return Long.toString(numero).length() ;
-    }
-
-    // Função para pegar a parte central do número
-    public static int getCentralPart(long number, int numDigits) {
-        // Converte o número para string para fácil manipulação
-        String numStr = Long.toString(number);
-        
-        // Se o número de dígitos a serem extraídos for maior que o número de dígitos do número original, 
-        // retornamos o número inteiro como central
-        if (numStr.length() <= numDigits) {
-            return (int) number;
+    // Função para contar a quantidade de dígitos de um número
+    public static int contarDigitos(long chave) {
+        int contagem = 0;
+        while (chave != 0) {
+            chave /= 10;
+            ++contagem;
         }
-
-        // Encontra a posição central
-        int start = (numStr.length() - numDigits) / 2;
-        int end = start + numDigits;
-        
-        // Pega a parte central da string
-        String centralPartStr = numStr.substring(start, end);
-        
-        // Converte a parte central para número e retorna
-        return Integer.parseInt(centralPartStr);
+        return contagem;
     }
-
-    // Função hashing usando o método Mid Square
-    public static int hashingMidSquare(int chave, int tamanhoTabela) {
-        int tamanho = tamanhoTabela - 1;
-        int digitosTamanhoTable = contarDigitos(tamanho);
-        
-        // Calculando o quadrado da chave
-        long quadradoChave = (long) chave * chave;
-
-        // Pegando a parte central do quadrado da chave
-        // Aqui pegamos o mesmo número de dígitos que o tamanho da tabela
-        int digitosCentrais = getCentralPart(quadradoChave, digitosTamanhoTable);
-
-        // Garantir que o valor do hash esteja dentro dos limites da tabela (tamanho da tabela)
-        int hash = digitosCentrais % tamanhoTabela;
-        return hash;
+    // Função para pegar o N-ésimo dígito de um número
+    public static int pegarDigitoN(long numero, int pos) {
+        int digito = 0;
+        int tamanho = contarDigitos(numero);
+        int fração = (int) (numero / Math.pow(10, (tamanho - pos))); // Pegando a fração que corresponde ao dígito na posição
+        digito = fração % 10; // Pegando o dígito da posição
+        return digito;
     }
-
-
+    // Função para pegar um intervalo de dígitos de um número
+    public static int pegarIntervaloDeDigitos(long numero, int posInicial, int quantidade) {
+        int numeroResultado = 0;
+        int digito;
+        int tamanho = contarDigitos(numero);
+        // Verifica se a quantidade de dígitos que queremos pegar está dentro do número
+        if ((posInicial + quantidade) - 1 <= tamanho) {
+            for (int i = 0; i < quantidade; i++) {
+                // Pegando o dígito da posição
+                digito = pegarDigitoN(numero, posInicial);
+                posInicial++;
+                // Criando o número com os dígitos selecionados
+                numeroResultado = numeroResultado * 10 + digito;
+            }
+        }
+        return numeroResultado;
+    }
+    // Função de hashing utilizando o método do quadrado do meio
+    public static int hashingMidSquare(int chave, int tamanho) {
+        // Método da média quadrada para gerar o hash
+        int hash = chave * chave; // Calculando o quadrado da chave
+        // Garantir que o valor do hash esteja dentro do intervalo da tabela
+        int hashAjustado = Math.abs(hash) % tamanho; // Ajustando para garantir que está dentro dos limites da tabela
+        // Verificando se o hash calculado é válido
+        System.out.println("Chave: " + chave + " -> Hash calculado: " + hash + " -> Hash ajustado: " + hashAjustado);
+        return hashAjustado;
+    }
 }
-

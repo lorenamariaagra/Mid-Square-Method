@@ -56,7 +56,7 @@ public class MidSquareMethodComAjuste {
         int digitosCentrais = pegarIntervaloDeDigitos(quadradoChave, posicaoMeio,digitosTamanhoTable ); // Pegando 3 dígitos centrais
 
         // Garantir que o valor do hash esteja dentro dos limites da tabela (tamanho da tabela)
-        int hash = digitosCentrais;
+        int hash = digitosCentrais % tamanhoTabela;
         return hash;
     }
 }

@@ -2,10 +2,9 @@ package msm;
 import java.io.*;
 import java.util.*;
 
-
 public class Main {
-	public static void main(String[] args) {
-    	HashTable hashTable = new HashTable(100); 
+    public static void main(String[] args) {
+        HashTable hashTable = new HashTable(); 
         String arquivo = "random_numbers_0...10000.txt"; // ou o caminho completo, como "/caminho/do/arquivo/random_numbers.txt"
         
         try {
@@ -46,71 +45,76 @@ public class Main {
 }
 
 class HashTable {
-	private List<Integer>[] table; // Tabela de hash
+    private ArrayList<Integer>[] table; // Tabela de hash
     private int tamanho; // Tamanho da tabela
-    private int count; // Número de elementos na tabela
     private int numeroDeColisoes; // Contador de colisões
+    private int count; // Contador de elementos inseridos
+    private double fatorDeCarga; // Fator de carga
+    
+    public static final double FATOR_DE_CARGA_DEFAULT = 0.85;
 
-    public HashTable(int tamanhoInicial) {
-        this.tamanho = tamanhoInicial;
+    public HashTable() {
+        this.tamanho = 1000; // Tamanho inicial da tabela
         this.table = new ArrayList[tamanho];
-        this.count = 0;
         this.numeroDeColisoes = 0;
+        this.count = 0;
+        this.fatorDeCarga = FATOR_DE_CARGA_DEFAULT;
+    }
 
-        // Inicializa as listas vazias
-        for (int i = 0; i < tamanho; i++) {
-            table[i] = new ArrayList<>();
-        }
-    }
-    public boolean isIndexEmpty(int hash) {
-        return table[hash].isEmpty();  // Retorna verdadeiro se a lista estiver vazia, caso contrário, falso
-    }
     // Função para adicionar uma chave na tabela hash
     public void add(int chave) {
-        // Usando a classe Mid para o cálculo do índice de hash
-        int hash = MidSquareMethodComAjuste.hashingMidSquare(chave, tamanho); // Corrigido para usar hashingMidSquare
-            if (isIndexEmpty(hash)) {
-                System.out.println("Chave " + chave + " será adicionada no hash " + hash);
+        if ((double) this.count / this.tamanho > this.fatorDeCarga) {
+            resize(); // Se a tabela atingir o fator de carga, redimensiona
+        }
+
+        int hash = MidSquareMethodComAjuste.hashingMidSquare(chave, this.tamanho); // Correção no cálculo do hash
+        hash = hash % this.tamanho; // Garantir que o valor do hash está dentro do intervalo válido
+
+        ArrayList<Integer> bucket = this.table[hash];
+
+        // Se o bucket estiver vazio, cria uma nova lista para o bucket
+        if (bucket == null) {
+            bucket = new ArrayList<>();
+            this.table[hash] = bucket;
+            System.out.println("Chave " + chave + " adicionando ao hash " + hash); // Imprime a chave sendo adicionada
+        } else {
+            // Caso contrário, adiciona a chave e verifica colisão
+            System.out.print("Chave " + chave + " adicionando ao hash " + hash); // Imprime que está adicionando
+            bucket.add(chave);
+            
+            // Verifica se houve colisão (mais de uma chave no mesmo bucket)
+            if (bucket.size() > 1) {
+                numeroDeColisoes++;
+                System.out.println(" - Colisão!"); // Imprime mensagem de colisão
             } else {
-            	numeroDeColisoes++;  // Se houver algo na lista, incrementa o contador de colisões
-                System.out.println("Chave " + chave + " será adicionada no hash. " + hash + " Colisão detectada!");
-            }
-
-            // Adiciona a chave na lista
-            table[hash].add(chave);
-            count++;  // Incrementa o contador de elementos
-
-            // Se a tabela estiver mais de 75% cheia, realiza o redimensionamento
-            if (count > tamanho * 0.75) {
-                resize();
+                System.out.println(); // Não há colisão, apenas uma nova linha
             }
         }
-    
+
+        this.count++;
+    }
 
     // Função para redimensionar a tabela hash
     private void resize() {
-        System.out.println("Redimensionando a tabela...");
-
         // Dobra o tamanho da tabela
-        int novoTamanho = tamanho * 2;
-        List<Integer>[] novaTabela = new ArrayList[novoTamanho];
-
-        // Inicializa as novas listas
-        for (int i = 0; i < novoTamanho; i++) {
-            novaTabela[i] = new ArrayList<>();  // Inicializa a lista no índice i
-        }
+        this.count = 0; // Recomeça o contador de elementos
+        int novoTamanho = this.tamanho * 2;
+        ArrayList<Integer>[] novaTabela = new ArrayList[novoTamanho];
 
         // Reinsere os elementos na nova tabela
-        for (int i = 0; i < tamanho; i++) {
-            for (int key : table[i]) {
-                // Calculando o índice com o novo tamanho da tabela
-                int hashNovo = MidSquareMethodComAjuste.hashingMidSquare(key, novoTamanho);  // Agora o hash é calculado com o novo tamanho
-
-                // Garantir que o índice esteja dentro dos limites da nova tabela
-                hashNovo = hashNovo % novoTamanho;  // Ajusta para garantir que o índice seja válido
-
-                // O índice é calculado corretamente e fica dentro dos limites do novo tamanho
-                novaTabela[hashNovo].add(key);
+        for (int i = 0; i < this.tamanho; i++) {
+            if (this.table[i] != null) {
+                for (int chave : this.table[i]) {
+                    int hashNovo = MidSquareMethodComAjuste.hashingMidSquare(chave, novoTamanho); // Usar o novo tamanho para o cálculo do hash
+                    hashNovo = hashNovo % novoTamanho; // Garantir que o hash esteja dentro do novo tamanho
+                    ArrayList<Integer> bucket = novaTabela[hashNovo];
+                    if (bucket == null) {
+                        bucket = new ArrayList<>();
+                        novaTabela[hashNovo] = bucket;
+                    }
+                    bucket.add(chave);
+                    this.count++;
+                }
             }
         }
 
@@ -118,10 +122,9 @@ class HashTable {
         this.table = novaTabela;
         this.tamanho = novoTamanho;
     }
+
     // Função para obter o número total de colisões
     public int getNumeroDeColisoes() {
-        return numeroDeColisoes;
+        return this.numeroDeColisoes;
     }
 }
-
-

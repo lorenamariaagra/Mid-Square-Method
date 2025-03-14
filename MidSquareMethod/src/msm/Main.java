@@ -4,13 +4,13 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        HashTable hashTable = new HashTable(); 
+        HashTable hashTable = new HashTable();
         String arquivo = "random_numbers_0...10000.txt"; // ou o caminho completo, como "/caminho/do/arquivo/random_numbers.txt"
         
         try {
             BufferedReader reader = new BufferedReader(new FileReader(arquivo));
             String line = "";
-            
+
             // Lê linha por linha do arquivo
             while ((line = reader.readLine()) != null) {
                 // Quebra a linha em tokens separados por espaço
@@ -31,7 +31,7 @@ public class Main {
                 }
 
             }
-            
+
             // Exibe o número total de colisões após o processamento do arquivo
             System.out.println("Número total de colisões: " + hashTable.getNumeroDeColisoes());
 

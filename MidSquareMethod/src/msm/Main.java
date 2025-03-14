@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
-        HashTable hashTable = new HashTable();
+        HashTable hashTable = new HashTable("saida.txt");
         String arquivo = "random_numbers_0...10000.txt"; // Caminho do arquivo com números
         try {
             BufferedReader reader = new BufferedReader(new FileReader(arquivo));
@@ -15,14 +15,16 @@ public class Main {
                         int chave = Integer.parseInt(token);
                         hashTable.add(chave);
                     } catch (NumberFormatException e) {
-                        System.out.println("Token inválido: " + token);
+                        hashTable.writeToFile("Token inválido: " + token);
                     }
                 }
             }
-            System.out.println("\nNúmero total de colisões: " + hashTable.getNumeroDeColisoes());
+            hashTable.writeToFile("\nNúmero total de colisões: " + hashTable.getNumeroDeColisoes());
             reader.close();
         } catch (IOException ioe) {
             System.out.println("Erro ao ler o arquivo: " + ioe.getMessage());
+        } finally {
+            hashTable.closeWriter();  // Fechar o writer ao final
         }
     }
 }
@@ -33,16 +35,23 @@ class HashTable {
     private int count;
     private double fatorDeCarga;
     private static final double FATOR_DE_CARGA_DEFAULT = 0.75;
-    public HashTable() {
+    private BufferedWriter writer;
+    
+    public HashTable(String arquivoSaida) {
         this.tamanho = 997; // Número primo para minimizar colisões
         this.table = new ArrayList[tamanho];
         this.numeroDeColisoes = 0;
         this.count = 0;
         this.fatorDeCarga = FATOR_DE_CARGA_DEFAULT;
-        for (int i = 0; i < this.tamanho; i++) {
+        try {
+            this.writer = new BufferedWriter(new FileWriter(arquivoSaida, true)); // true para append
+        } catch (IOException e) {
+            System.out.println("Erro ao abrir arquivo de saída: " + e.getMessage());
+        }        for (int i = 0; i < this.tamanho; i++) {
             this.table[i] = new ArrayList<>();
         }
     }
+    
     private int simpleHash(int chave) {
         return Math.abs((chave * 31) % this.tamanho); // Multiplicação por número primo melhora dispersão
     }
@@ -54,11 +63,15 @@ class HashTable {
         if (!this.table[hash].contains(chave)) { // Evita inserir chave duplicada
             boolean colisao = !this.table[hash].isEmpty();
             this.table[hash].add(chave);
-            if (colisao) {
-                numeroDeColisoes++;
-                System.out.println("Chave " + chave + " adicionada ao hash " + hash + " - Colisão!");
-            } else {
-                System.out.println("Chave " + chave + " adicionada ao hash " + hash);
+            try {
+                if (colisao) {
+                    numeroDeColisoes++;
+                    writeToFile("Chave " + chave + " adicionada ao hash " + (hash % this.tamanho) + " - Colisão!");
+                } else {
+                    writeToFile("Chave " + chave + " adicionada ao hash " + (hash % this.tamanho));
+                }
+            } catch (IOException e) {
+                System.out.println("Erro ao escrever no arquivo: " + e.getMessage());
             }
             this.count++;
         }
@@ -95,5 +108,18 @@ class HashTable {
     }
     public int getNumeroDeColisoes() {
         return this.numeroDeColisoes;
+    }
+    public void writeToFile(String message) throws IOException {
+        writer.write(message);
+        writer.newLine();
+    }
+    public void closeWriter() {
+        try {
+            if (writer != null) {
+                writer.close();
+            }
+        } catch (IOException e) {
+            System.out.println("Erro ao fechar o arquivo: " + e.getMessage());
+        }
     }
 }
